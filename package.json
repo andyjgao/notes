@@ -7,7 +7,6 @@
     "build": "gatsby build",
     "start": "gatsby develop",
     "deploy": "gatsby build && gh-pages -d public -b public"
-
   },
   "keywords": [],
   "author": "Andy Gao",
@@ -15,6 +14,7 @@
   "dependencies": {
     "@tippyjs/react": "^4.0.2",
     "gatsby": "^2.20.36",
+    "gatsby-plugin-google-analytics": "^2.3.2",
     "gatsby-plugin-postcss": "^2.2.4",
     "gatsby-theme-andy": "^0.1.0",
     "querystring": "^0.2.0",

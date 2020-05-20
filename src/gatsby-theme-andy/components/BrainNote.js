@@ -6,22 +6,54 @@ import { MDXProvider } from '@mdx-js/react';
 import qs from 'querystring';
 import NavBar from './NavBar';
 import notesImage from '../../images/notebook.png';
-
 import '../../style.css';
 
 import components from 'gatsby-theme-andy/src/components/MdxComponents';
 
+// Hook
+function useWindowSize() {
+  const isClient = typeof window === 'object';
+
+  function getSize() {
+    return {
+      width: isClient ? window.innerWidth : undefined,
+      height: isClient ? window.innerHeight : undefined
+    };
+  }
+
+  const [windowSize, setWindowSize] = React.useState(getSize);
+
+  React.useEffect(() => {
+    if (!isClient) {
+      return false;
+    }
+    
+    function handleResize() {
+      setWindowSize(getSize());
+    }
+
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []); // Empty array ensures that effect is only run on mount and unmount
+
+  return windowSize;
+}
+
+
 const location = typeof window !== `undefined` ? window.location : { href: '' };
-const windowWidth = typeof window !== `undefined` ? window.innerWidth : null; 
 let NOTE_WIDTH = 576;
-if ((windowWidth) && (windowWidth < 600)) {
-  NOTE_WIDTH = windowWidth;
+function getWindowDimensions() {
+  const { innerWidth: width, innerHeight: height } = window;
+  return {
+    width,
+    height,
+  };
 }
 const BrainNoteContainer = ({ note }) => {
+  const size = useWindowSize();
   const [stackedNotes, setStackedNotes] = React.useState([]);
   const [scrollPosition, setScrollPosition] = React.useState(0);
   const notesContainerRef = React.useRef();
-
   const stackedNotesSlugs = React.useMemo(() => {
     if (!location.search) return [];
     const res = qs.parse(location.search.replace(/^\?/, '')).stackedNotes || [];
@@ -30,7 +62,12 @@ const BrainNoteContainer = ({ note }) => {
     }
     return res;
   }, [location.href]);
-
+  React.useEffect(() => {
+    if(size.width < 576){
+      NOTE_WIDTH = size.width;
+      console.log(NOTE_WIDTH, "change")
+    }
+  });
   React.useEffect(() => {
     Promise.all(
       // hook into the internals of Gatsby to dynamically fetch the notes
@@ -80,7 +117,11 @@ const BrainNoteContainer = ({ note }) => {
           className="notes-container flex flex-1 overflow-x-auto overflow-y-hidden"
           onScroll={onContainerScroll}
         >
-          <BrainNote note={note} almostHidden={scrollPosition > NOTE_WIDTH - 100} />
+          <BrainNote
+            note={note}
+            // NOTE_WIDTH={NOTE_WIDTH}
+            almostHidden={scrollPosition > NOTE_WIDTH - 100}
+          />
           {stackedNotes.map((sn, i) => (
             <BrainNote
               key={i}
@@ -180,5 +221,6 @@ const BrainNote = ({ note, index = 0, stackedNote, almostHidden }) => {
     </MDXProvider>
   );
 };
+
 
 export default BrainNoteContainer;
