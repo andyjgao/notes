@@ -12,9 +12,10 @@ import '../../style.css';
 import components from 'gatsby-theme-andy/src/components/MdxComponents';
 
 const location = typeof window !== `undefined` ? window.location : { href: '' };
+const windowWidth = typeof window !== `undefined` ? window.innerWidth : null; 
 let NOTE_WIDTH = 576;
-if (window.innerWidth < 600) {
-  NOTE_WIDTH = window.innerWidth;
+if ((windowWidth) && (windowWidth < 600)) {
+  NOTE_WIDTH = windowWidth;
 }
 const BrainNoteContainer = ({ note }) => {
   const [stackedNotes, setStackedNotes] = React.useState([]);
@@ -71,7 +72,7 @@ const BrainNoteContainer = ({ note }) => {
         />
       </Helmet>
       <div id="brainNote" className="text-gray-900 flex flex-col min-h-screen h-screen">
-        <div className="font-bold py-2 border-b px-4">
+        <div className="font-bold border-b px-4">
           <NavBar />
         </div>
         <div

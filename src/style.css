@@ -116,4 +116,8 @@ pre > code {
   left: calc(50% - 63px);
 }
 
+.align-middle{
+  text-align: -webkit-center;
+}
+
 /* purgecss end ignore */
