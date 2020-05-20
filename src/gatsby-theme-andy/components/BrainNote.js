@@ -152,7 +152,7 @@ const BrainNote = ({ note, index = 0, stackedNote, almostHidden }) => {
       >
         <div className="py-2">
           <h5 className="">{reference.title}</h5>
-          <p className="text-sm m-0">{reference.childMdx.excerpt}</p>
+          <p className="text-sm m-0 font-normal">{reference.childMdx.excerpt}</p>
         </div>
       </a>
     ));

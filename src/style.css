@@ -28,6 +28,10 @@ h3 {
  a:hover {
    @apply text-gray-600 font-bold no-underline;
  }
+
+.references a{
+  @apply text-gray-700 font-normal underline !important;
+}
 p {
   @apply mb-4;
 }

@@ -5,10 +5,10 @@ export default function NavBar() {
 
   return (
   
-    <header className=" sm:flex sm:justify-between sm:mt-2 sm:py-3 sm:items-center">
+    <header className=" sm:flex sm:mt-2 mb-2 sm:py-3 sm:items-center">
       <div className="flex items-center justify-between mt-2 py-3 sm:p-0 sm:m-0">
         <div className="title">
-          <a className="text-lg font-bold no-underline text-black" href="/">
+          <a className="text-lg font-bold no-underline text-black mr-6" href="/">
             Andy J. Gao's 📝
           </a>
         </div>
