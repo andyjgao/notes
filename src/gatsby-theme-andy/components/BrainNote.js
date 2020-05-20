@@ -5,15 +5,17 @@ import { Helmet } from 'react-helmet';
 import { MDXProvider } from '@mdx-js/react';
 import qs from 'querystring';
 import NavBar from './NavBar';
+import notesImage from '../../images/notebook.png';
 
 import '../../style.css';
 
 import components from 'gatsby-theme-andy/src/components/MdxComponents';
 
 const location = typeof window !== `undefined` ? window.location : { href: '' };
-
-const NOTE_WIDTH = 576;
-
+let NOTE_WIDTH = 576;
+if (window.innerWidth < 600) {
+  NOTE_WIDTH = window.innerWidth;
+}
 const BrainNoteContainer = ({ note }) => {
   const [stackedNotes, setStackedNotes] = React.useState([]);
   const [scrollPosition, setScrollPosition] = React.useState(0);
@@ -59,6 +61,14 @@ const BrainNoteContainer = ({ note }) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{note.title} - Andy J Gao's notes</title>
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:creator" content={'@andyjgao'} />
+        <meta name="twitter:title" content={note.title.concat(" - Andy J Gao's notes")} />
+        <meta name="twitter:description" content="a public notebook of networked thoughts" />
+        <meta
+          name="twitter:image:src"
+          content={'https://notebook.andyjgao.com'.concat(notesImage)}
+        />
       </Helmet>
       <div id="brainNote" className="text-gray-900 flex flex-col min-h-screen h-screen">
         <div className="font-bold py-2 border-b px-4">

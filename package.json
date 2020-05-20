@@ -1,14 +1,16 @@
 {
-  "name": "@aravindballa/notes",
+  "name": "andyjgao-notes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "gatsby build",
-    "start": "gatsby develop"
+    "start": "gatsby develop",
+    "deploy": "gatsby build && gh-pages -d public -b public"
+
   },
   "keywords": [],
-  "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
+  "author": "Andy Gao",
   "license": "MIT",
   "dependencies": {
     "@tippyjs/react": "^4.0.2",
@@ -23,6 +25,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.2",
     "autoprefixer": "^9.7.6",
+    "gh-pages": "^2.2.0",
     "tailwindcss": "^1.3.5"
   }
 }
