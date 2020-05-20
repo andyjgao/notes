@@ -7,6 +7,7 @@ import qs from 'querystring';
 import NavBar from './NavBar';
 import notesImage from '../../images/notebook.png';
 import '../../style.css';
+import favicon from '../../images/favicon.png';
 
 import components from 'gatsby-theme-andy/src/components/MdxComponents';
 
@@ -107,6 +108,8 @@ const BrainNoteContainer = ({ note }) => {
           name="twitter:image:src"
           content={'https://notebook.andyjgao.com'.concat(notesImage)}
         />
+        <link rel="icon" type="image/png" href={favicon} />
+
       </Helmet>
       <div id="brainNote" className="text-gray-900 flex flex-col min-h-screen h-screen">
         <div className="font-bold border-b px-4">
