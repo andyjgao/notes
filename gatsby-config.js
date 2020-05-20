@@ -1,5 +1,14 @@
 const path = require('path');
 
 module.exports = {
-  plugins: ['gatsby-theme-andy', `gatsby-plugin-postcss`],
+  plugins: [
+    {
+      resolve: `gatsby-theme-andy`,
+      options: {
+        rootNote: `home`,
+        hideDoubleBrackets: true,
+      },
+    },
+    `gatsby-plugin-postcss`,
+  ],
 };

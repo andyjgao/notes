@@ -4,6 +4,7 @@ import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
 import { Helmet } from 'react-helmet';
 import { MDXProvider } from '@mdx-js/react';
 import qs from 'querystring';
+import NavBar from './NavBar';
 
 import '../../style.css';
 
@@ -57,13 +58,11 @@ const BrainNoteContainer = ({ note }) => {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>{note.title} - aravindballa's notes</title>
+        <title>{note.title} - Andy J Gao's notes</title>
       </Helmet>
       <div id="brainNote" className="text-gray-900 flex flex-col min-h-screen h-screen">
         <div className="font-bold py-2 border-b px-4">
-          <Link to="/" className="no-underline text-gray-900">
-            @aravindballa's notes
-          </Link>
+          <NavBar />
         </div>
         <div
           ref={notesContainerRef}
@@ -106,7 +105,7 @@ const BrainNote = ({ note, index = 0, stackedNote, almostHidden }) => {
     if (references.length > 0) {
       referenceBlock = (
         <>
-          <h3>Referred in</h3>
+          <h3>Mentioned in</h3>
           <div className="mb-4">{references}</div>
           <hr className="mx-auto w-32" />
         </>
@@ -122,9 +121,9 @@ const BrainNote = ({ note, index = 0, stackedNote, almostHidden }) => {
         popups[ln.slug] = (
           <div
             id={ln.slug}
-            className="w-64 p-4 bg-gray-100 rounded-lg shadow-lg border border-blue-200"
+            className="w-64 p-4 bg-gray-100 rounded-lg shadow-lg border border-gray-200"
           >
-            <h5 className="mb-2">{ln.title}</h5>
+            <h4 className="mb-2">{ln.title}</h4>
             <p className="text-sm">{ln.childMdx.excerpt}</p>
           </div>
         );
@@ -159,15 +158,10 @@ const BrainNote = ({ note, index = 0, stackedNote, almostHidden }) => {
             <h1 className="my-4">{note.title}</h1>
             <MDXRenderer>{note.childMdx.body}</MDXRenderer>
           </div>
-          <div className="refs-box bg-indigo-100 text-gray-600 rounded-lg mb-4 p-4">
+          <div className="refs-box bg-gray-100 text-gray-600 rounded-lg mb-4 mt-5 p-4">
             {referenceBlock}
-            <p className="text-sm m-0">
-              If you think this note resonated, be it positive or negative, send me a{' '}
-              <a href="https://twitter.com/messages/compose?recipient_id=532906019">
-                direct message
-              </a>{' '}
-              on Twitter or an <a href="mailto:bsaaravind+notes@gmail.com">email</a> and we can
-              talk.
+            <p className="text-sm text-center m-0">
+              <span>Made with ❤</span> by <a href="https://twitter.com/andyjgao">Andy J Gao</a>
             </p>
           </div>
         </div>

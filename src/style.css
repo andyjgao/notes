@@ -14,12 +14,20 @@ h2 {
 h3 {
   @apply font-bold;
 }
-a {
-  @apply text-blue-600 underline;
-}
-a:hover {
-  @apply text-blue-700 no-underline;
-}
+.links a{
+  @apply no-underline;
+ }
+ .title a:hover {
+   @apply text-black no-underline !important;
+ }
+ 
+ a {
+   @apply text-gray-700 font-bold underline;
+ }
+ 
+ a:hover {
+   @apply text-gray-600 font-bold no-underline;
+ }
 p {
   @apply mb-4;
 }
