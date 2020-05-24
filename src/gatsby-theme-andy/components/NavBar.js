@@ -29,8 +29,8 @@ export default function NavBar() {
         <a className="block sm:inline-block" href="https://andyjgao.com/blog">
           Blog
         </a>
-        <a className="block mt-1 sm:mt-0 sm:ml-4" href="https://andyjgao.com/notes">
-          Notes
+        <a className="block mt-1 sm:mt-0 sm:ml-4" href="https://andyjgao.com/bookshelf">
+          Bookshelf
         </a>
         <a className="block mt-1 sm:mt-0 sm:ml-4" href="https://andyjgao.com/projects">
           Projects
