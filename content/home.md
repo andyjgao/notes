@@ -13,6 +13,7 @@ Under each page, you will see a "Mentioned in" box whenever I reference a specif
 This site is still very raw and will most likely be updated in the near future.
 
 Here are some recent notes:
+- [[The Internet Huckster mindset is a poor-long term strategy for growth]]
 - [[Feedback is essential for growth]]
 - [[Default to writing Evergreen content]]
 - [[Competitive spirals are an attribution to a Trend Mindset]]
