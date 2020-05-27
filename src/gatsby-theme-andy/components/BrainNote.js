@@ -172,7 +172,7 @@ const BrainNote = ({ note, index = 0, stackedNote, almostHidden }) => {
             id={ln.slug}
             className="w-64 p-4 bg-gray-100 rounded-lg shadow-lg border border-gray-200"
           >
-            <h4 className="mb-2">{ln.title}</h4>
+            <h4 className="mb-2 font-bold">{ln.title}</h4>
             <p className="text-sm">{ln.childMdx.excerpt}</p>
           </div>
         );
