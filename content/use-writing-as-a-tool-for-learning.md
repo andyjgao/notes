@@ -1,5 +1,6 @@
 ---
 title: Use Writing as a tool for learning
+aliases: ["writing as a tool for learning"]
 ---
 Everything in life revolves around writing. Whether it be studying, research, academia, expression-- writing is used.
 
