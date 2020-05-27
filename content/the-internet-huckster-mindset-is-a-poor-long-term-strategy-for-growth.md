@@ -8,7 +8,7 @@ The Internet huckster is someone who seeks to emulate others in an attempt to ge
 The huckster mindset is a poor-long term strategy for customer acquisition and growth because if people are not genuinely interested in you, they will only be a one-time customer.
 
 ---
-References
+References:
 
 [Welcome to the Internet: Don't be a Huckster](https://www.nateliason.com/blog/huckster)
 
