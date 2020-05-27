@@ -13,7 +13,10 @@ Under each page, you will see a "Mentioned in" box whenever I reference a specif
 This site is still very raw and will most likely be updated in the near future.
 
 Here are some recent notes:
-
+- [[Feedback is essential for growth]]
+- [[Default to writing Evergreen content]]
+- [[Competitive spirals are an attribution to a Trend Mindset]]
+- [[Compelling writing expresses big ideas with as few words as possible]]
 - [[Constraints lead to freedom]]
 - [[Systems with human centered designs are more efficient]]
 - [[Memory is a trade off between accuracy and speed]]
