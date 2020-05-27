@@ -43,13 +43,7 @@ function useWindowSize() {
 
 const location = typeof window !== `undefined` ? window.location : { href: '' };
 let NOTE_WIDTH = 576;
-function getWindowDimensions() {
-  const { innerWidth: width, innerHeight: height } = window;
-  return {
-    width,
-    height,
-  };
-}
+
 const BrainNoteContainer = ({ note }) => {
   const size = useWindowSize();
   const [stackedNotes, setStackedNotes] = React.useState([]);
