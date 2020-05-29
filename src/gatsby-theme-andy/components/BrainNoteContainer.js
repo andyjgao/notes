@@ -72,7 +72,6 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
       <meta name="twitter:title" content={note.title.concat(" - Andy J Gao's notes")} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:creator" content={'@andyjgao'} />
-      <meta name="twitter:title" content={note.title.concat(" - Andy J Gao's notes")} />
       <meta name="twitter:description" content="a public notebook of networked thoughts" />
       <meta name="twitter:image:src" content={'https://notebook.andyjgao.com'.concat(notesImage)} />
       <Helmet>
