@@ -1,0 +1,55 @@
+- Literature Notes::
+    - Author:: [[Tiago Forte]]
+    - Source:: https://fortelabs.co/blog/para
+    - Recommended By:: 
+    - Tags:: #Articles #Productivity #Lifestyle
+    - Notes::
+        - A perfect organizational system needs to be:
+            - **universal**, encompassing any conceivable kind of information from any source
+            - **flexible**, able to work with any project or activity you take on, now and in the future
+            - **simple**, not requiring any time-consuming maintenance, cataloguing, tagging, or reorganizing beyond a bare minimum
+            - **actionable**, integrating seamlessly with task management and project management methods
+            - **cross-platform**, able to be used with any application, now existing or yet to be developed
+            - **outcome-oriented**, structuring information in a way that supports the delivery of valuable work
+            - **modular**, allowing different levels of detail to be hidden or revealed, depending on the needs of the current task
+            - **opportunistic**, in the good sense, taking advantage of work already being performed, instead of requiring dedicated overhead time
+        - Tiago Forte's System: P.A.R.A
+            - **Projects**- series of tasks linked to a goal with a deadline
+                - must have a goal to be achieved 
+            - **Areas**- a sphere of activities that group projects together
+                - must have a standard to be maintained
+            - **Resources** - a topic/theme of interest (similar to Areas but w/o actionable results)
+            - **Archives** - inactive items from the three categories above
+        - Project's will always inherently fall into Areas:
+            - Running Marathon (Project) falls into Health (Area)
+            - Publishing a book (Project) falls into Writing (Area)
+            - Creating a Chrome Extension (Project) falls into Programming (Area)
+        - [[Z:Areas must be broken down into projects]] because:
+            - You can't know the extent of your commitments
+                - Writing (not quantifiable) vs 3 different articles as projects (quantifiable)
+            - Current Efforts are very hard to connect with long-term goals
+            - You are unable to measure the progress toward your goals
+        - Projects without goals are known as **Hobbies**
+        - Goals without projects are known as **Dreams**
+        - **Define** your projects or you will be constantly pulled and push into other people's projects
+- ## Highlights
+    - "This system would have to be: universal, encompassing any conceivable kind of information from any source flexible, able to work with any project or activity you take on, now and in the future simple, not requiring any time-consuming maintenance, cataloguing, tagging, or reorganizing beyond a bare minimum actionable, integrating seamlessly with task management and project management methods cross-platform, able to be used with any application, now existing or yet to be developed outcome-oriented, structuring information in a way that supports the delivery of valuable work modular, allowing dierent levels of detail to be hidden or revealed, depending on the needs of the current task" ([ :1](zotero://open-pdf/library/items/E9YICTR4?page=1))
+    - "opportunistic, in the good sense, taking advantage of work already being performed, instead of requiring dedicated overhead time" ([ :2](zotero://open-pdf/library/items/E9YICTR4?page=2))
+    - "P. A.R.A. stands for Projects — Areas — Resources — Archives, the four top-level categories that encompass every type of information you might encounter in your work and life." ([ :2](zotero://open-pdf/library/items/E9YICTR4?page=2))
+    - "A project is "a series of tasks linked to a goal, with a deadline."" ([ :2](zotero://open-pdf/library/items/E9YICTR4?page=2))
+    - "An area of responsibility is "a sphere of activity with a standard to be maintained over time."" ([ :2](zotero://open-pdf/library/items/E9YICTR4?page=2))
+    - "A resource is "a topic or theme of ongoing interest." ([ :2](zotero://open-pdf/library/items/E9YICTR4?page=2))
+    - "Archives include "inactive items from the other three categories."" ([ :2](zotero://open-pdf/library/items/E9YICTR4?page=2))
+    - "A project has a goal to be achieved — a discrete event that will happen, allowing this item to be completely checked o and struck from the list." ([ :5](zotero://open-pdf/library/items/E9YICTR4?page=5))
+    - "An area of responsibility, by contrast, has a standard to be maintained." ([ :5](zotero://open-pdf/library/items/E9YICTR4?page=5))
+    - "Projects always fall into Areas. A few examples: Running a marathon is a project, whereas Health is an area Publishing a book is a project, whereas Writing is an area Saving 3 months' worth of expenses is a project, whereas Finances is an area A vacation to Thailand is a project, whereas Travel is an area Planning an anniversary dinner is a project, whereas Spouse is an area" ([ :5](zotero://open-pdf/library/items/E9YICTR4?page=5))
+    - "There are three absolutely critical things you cannot do unless you break out your areas of responsibility into clearly articulated projects. The first is that you can't truly know the extent of your commitments:" ([ :5](zotero://open-pdf/library/items/E9YICTR4?page=5))
+    - "Second, you can't connect your current efforts to your long-term goals:" ([ :6](zotero://open-pdf/library/items/E9YICTR4?page=6))
+    - "Third, you can't know if you're making progress toward your goals:" ([ :6](zotero://open-pdf/library/items/E9YICTR4?page=6))
+    - "his is problematic because a project without a corresponding goal is known as a "hobby."" ([ :7](zotero://open-pdf/library/items/E9YICTR4?page=7))
+    - "And if you have a goal without a corresponding project, that's called a "dream."" ([ :7](zotero://open-pdf/library/items/E9YICTR4?page=7))
+    - "The bottom line here is, define your projects, or they will define you. You'll be constantly pulled and pushed into the projects of others, and find that even when others offer to help you with yours, you won't even know what they are." ([ :7](zotero://open-pdf/library/items/E9YICTR4?page=7))
+    - "The first principle is that it uses the number 4 as a guidepost. The entire hierarchy is four categories wide (projects, areas, resources, archives), and no more than four levels deep (using Evernote as an example, the levels would be: application > stacks > notebooks > notes)." ([ :8](zotero://open-pdf/library/items/E9YICTR4?page=8))
+    - "The second principle is that P.A.R.A. perfectly mirrors your task management and project management systems" ([ :8](zotero://open-pdf/library/items/E9YICTR4?page=8))
+    - "The third principle is that P.A.R.A. preserves and actually enhances the most important distinction that any productivity system must make: between actionable and non-actionable information. Making this distinction allows you to set" ([ :8](zotero://open-pdf/library/items/E9YICTR4?page=8))
+    - "aside 95% of the information coming your way, to focus on the 5% necessary for the task at hand." ([ :9](zotero://open-pdf/library/items/E9YICTR4?page=9))

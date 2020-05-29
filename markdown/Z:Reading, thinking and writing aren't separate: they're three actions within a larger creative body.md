@@ -1,0 +1,12 @@
+- Permanent Notes::
+    - Source:: [[LA: How to Write Like Naval Ravikant]]
+    - Tags:: #Writing #Learning
+    - Relevant Notes::
+        - [[Z:Use Writing as the tool for learning]]
+        - [[Z:Publicize your Ideas]]
+        - [[Z:Compelling writing expresses big ideas with as few words as possible]]
+    - Notes::
+        Reading, thinking and writing may seem like separate activities but they aren't. We need all three in order to learn and [[Z:Use Writing as the tool for learning]]:
+            - We **read **to fill ourselves with ideas and knowledge
+            - We **think** to clarify, distill and reconstruct our ideas with previous knowledge.
+            - We **write** to reflect these ideas back as a way to process what we learned. We also write to share with the world and [publicize our ideas]([[Z:Publicize your Ideas]]).

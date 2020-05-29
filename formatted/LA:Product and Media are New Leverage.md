@@ -1,0 +1,49 @@
+- **[Literature Notes](<Literature Notes.md>):**
+    - **[Author](<Author.md>):** [Naval Ravikant](<Naval Ravikant.md>)
+    - **[Source](<Source.md>):** https://nav.al/product-media
+    - **[Recommended By](<Recommended By.md>):**
+    - **[Tags](<Tags.md>):** [Articles](<Articles.md>) #[how to make money](<how to make money.md>) [education](<education.md>) 
+    - **[Notes](<Notes.md>):** 
+        - [Z:The Internet has given the ordinary individual permissionless leverage](<Z:The Internet has given the ordinary individual permissionless leverage.md>) Products and media have no marginal cost of replication which gives you permissionless leverage and almost infinite upside. You do not need anyone's permission for you to start and succeed. 
+            - Coding, Youtube, Tweet, Blogs
+        - Efforts can be multiplied without the need of anyone or any capital.
+            - All you need is some basic equipment to publish your content and internet connection
+        - [Z:Mastering Product and Media leverage is where new fortunes are made](<Z:Mastering Product and Media leverage is where new fortunes are made.md>)
+            - Old Fortune: Using Capital to make money i.e. Warren Buffets
+            - New Fortune: Using Code & Media to make money. i.e. Joe Rogan Podcasts, PewDiePie Youtube Channel
+        - A combination of capital, product, and media leads to exponential scaling and growth
+            - Roadmap for Startups
+                - Start with idea and minimum MVP
+                - Hire the highest output labor for creating products (i.e Engineers, Designers)
+                - Add capital to scale,marketing, advertising
+                - Use media and content to create organic growth
+                - User Adoption
+        - [Z:Coding is necessary for the future](<Z:Coding is necessary for the future.md>)
+            - The future is automation, robots who will do your job better than you. How do you combat this? Code and you will be able to speak their language to control the robots as opposed to having them control your life.
+- ### Highlights:
+    - **Extracted Annotations (5/1/2020, 11:52:29 AM)**
+    - "The most interesting and the most important form of leverage is this idea of products that have no marginal cost of replication. This is the new form of leverage." ([ 2019:1](zotero://open-pdf/library/items/4BLZX3V4?page=1))
+    - "It accelerated with broadcast media, and now it's really blown up with the Internet and with coding" ([ 2019:1](zotero://open-pdf/library/items/4BLZX3V4?page=1))
+    - "Now, you can multiply your efforts without having to involve other humans and without needing money from other humans" ([ 2019:1](zotero://open-pdf/library/items/4BLZX3V4?page=1))
+    - "Today, thanks to the Internet, I can buy a cheap microphone, hook it up to a laptop or an iPad, and there you are all listening." ([ 2019:1](zotero://open-pdf/library/items/4BLZX3V4?page=1))
+    - "Product leverage is where the new fortunes are made" ([ 2019:1](zotero://open-pdf/library/items/4BLZX3V4?page=1))
+    - "But the new generation's fortunes are all made through code or media." ([ 2019:1](zotero://open-pdf/library/items/4BLZX3V4?page=1))
+    - "Combining all three forms of leverage is a magic combination" ([ 2019:1](zotero://open-pdf/library/items/4BLZX3V4?page=1))
+    - "Now, the beauty is when you combine all of these three. That's where tech startups really excel, where you take just the minimum, but highest output labor that you can get, which are engineers, and designers, product developers. Then you add in capital. You use that for marketing, advertising, scaling. You add in lots of code and media and podcasts and content to get it all out there. That is a magic combination, and that's why you see technology startups explode out of nowhere, use massive leverage and just make huge outsize returns." ([ 2019:1](zotero://open-pdf/library/items/4BLZX3V4?page=1))
+    - "Product and media leverage are permissionless" ([ 2019:1](zotero://open-pdf/library/items/4BLZX3V4?page=1))
+    - "Probably the most interesting thing to keep in mind about the new forms of leverage is they are permissionless. They don't require somebody else's permission for you to use them or succeed." ([ 2019:2](zotero://open-pdf/library/items/4BLZX3V4?page=2))
+    - "Coding, writing books, recording podcasts, tweeting, YouTubing, these kinds of things, these are permissionless. You don't need anyone's permission to do them, and that's why they are very egalitarian. They're great equalizers of leverage." ([ 2019:2](zotero://open-pdf/library/items/4BLZX3V4?page=2))
+    - "The robot army is already here—code lets you tell them what to do" ([ 2019:2](zotero://open-pdf/library/items/4BLZX3V4?page=2))
+    - "Every great software developer, for example, now has an army of robots working for him at nighttime, while he or she sleeps, after they've written the code and it's just cranking away." ([ 2019:2](zotero://open-pdf/library/items/4BLZX3V4?page=2))
+    - "Essentially you can order this army of robots around. The commands have to be issued in a computer language, in a language that they understand." ([ 2019:2](zotero://open-pdf/library/items/4BLZX3V4?page=2))
+
+# Backlinks
+## [Z:Coding is necessary for the future](<Z:Coding is necessary for the future.md>)
+- **[Source](<Source.md>):** [LA:Product and Media are New Leverage](<LA:Product and Media are New Leverage.md>)
+
+## [Z:Mastering Product and Media leverage is where new fortunes are made](<Z:Mastering Product and Media leverage is where new fortunes are made.md>)
+- **[Source](<Source.md>):** [LA:Product and Media are New Leverage](<LA:Product and Media are New Leverage.md>)
+
+## [Z:The Internet has given the ordinary individual permissionless leverage](<Z:The Internet has given the ordinary individual permissionless leverage.md>)
+- **[Source](<Source.md>):**[LA:Product and Media are New Leverage](<LA:Product and Media are New Leverage.md>)
+

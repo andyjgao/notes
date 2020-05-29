@@ -1,0 +1,10 @@
+- Phone Number:: 
+- Email:: nat@nateliason.com
+- Company:: Growth Machine
+- Role:: CEO/Founder of Growth Machine
+- Location:: Austin,TX
+- How We Met:: 
+- Birthday:: 
+- Tags:: #People #marketing #SEO #Productivity #[[Roam Research]]
+- # Questions for Nat:
+    - Did you intentionally remove a way to access your main page? Because it's genius

@@ -1,0 +1,2 @@
+- Today we decided to cancel our trip to [[Europe]] due to the [[Coronavirus]] outbreak. 
+- 

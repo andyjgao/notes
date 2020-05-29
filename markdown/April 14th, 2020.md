@@ -1,0 +1,12 @@
+- [This time last year]([[April 14th, 2021]])
+- Daily Journal::12:46 {{word-count}}
+    - "Is anything bugging me?"
+        - Woke up late, PMOed again need to figure out a way to fix this
+    - "Next year I want to"
+        - Have a following on a social media platform (TikTok, Youtube, Twitter)
+- Today's Tasks::
+    - {{[[TODO]]}} Push Roam AHK to Github
+- Today's Schedule::
+- Today's Notes::
+    - Why Meditate? #[[Article Ideas]] #archive
+- 

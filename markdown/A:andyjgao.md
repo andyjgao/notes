@@ -1,0 +1,1 @@
+- {{query: {and: [[Goals]] [[A:andyjgao]]} }}

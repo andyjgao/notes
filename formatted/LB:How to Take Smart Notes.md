@@ -1,0 +1,82 @@
+- **[Literature Notes](<Literature Notes.md>):**
+    - **[Author](<Author.md>):** Sonke Ahrens
+    - **[Reading Status](<Reading Status.md>):** [finished](<finished.md>) [March 31st, 2020](<March 31st, 2020.md>)
+    - **[Recommended By](<Recommended By.md>):** Nat Eliason's Article
+    - **[Link](<Link.md>):** https://www.andyjgao.com/bookshelf/how-to-take-smart-notes/
+    - **[Tags](<Tags.md>):** [Books](<Books.md>) [note-taking](<note-taking.md>) [Lifestyle](<Lifestyle.md>) [Productivity](<Productivity.md>)
+    - **[Notes](<Notes.md>):**
+        - Review:
+            - An amazing book for those trying to improve their note-taking skills. If you've ever had trouble recalling the main concepts of a book to a friend when they ask about the key takeaways, this book is for you. How to Take Smart Notes introduces the "zettelkasten" method, which gives you a guide to retain what you've learned from a book and apply it in the future as a reference for articles, essays, etc. 
+        - [Z:Doing something you don't want to is inefficient](<Z:Doing something you don't want to is inefficient.md>) Pushing through doing something you don't want to is not only bad for your morale but also your productivity and success. Pivoting, whether it be a thesis or a startup idea, leads to better ideas you are actually motivated about and allows you to stay in control. Staying stuck on an idea leads to stagnation.
+            - He not only stressed that he never forced himself to do something he didn’t feel like, he even said: “I only do What is easy. I only write When I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else.” (Luhmann et aL, 1987, 154f.) pg 16
+            - Don’t cling to an idea if another, more promising one gains momentum. The more you become interested in something, the more you Will read and think about it, the more notes you Will collect and the more likely it is that you will generate questions from it. It might be exactly What you were interested in from the beginning, but it is more likely that your interests will have changed-that is what insight does. pg25
+        - [Z:Keep it Simple Stupid](<Z:Keep it Simple Stupid.md>)Simplicity is key. Over-engineering is not only costly but wastes a lot of time. (Reference Russian vs American strategy of developing anti-gravity writing tool).
+            - There is this story where NASA tried to figure out how to make a ballpoint pen that works in space. If you have ever tried to use a ballpoint pen over your head, you have probably realized it is gravity that keeps the ink flowing. After a series of prototypes, several test runs and tons of money invested, NASA developed a fully functional gravity-independent pen, Which pushes the ink onto the paper by means of compressed nitrogen. According to this story, the Russians faced the same problem. So they used pencils. pg28
+        - The best solutions remove excess features and reduce distractions from the main work.
+            - Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, Which here is thinking.  pg 29
+        - [Z:Publicize your Ideas](<Z:Publicize your Ideas.md>) A private idea is as good as no idea at all. Ideas and thoughts are meant to be written down and discussed and expressed. 
+            - There is no such thing as private knowledge in academia. An idea kept private is as good as one you never had. pg 36 
+        - [Z:Use Writing as the tool for learning](<Z:Use Writing as the tool for learning.md>) Everything in life revolves around writing. It is the tool used for studying, research, academia, expression. **Do as if NOTHING counts other than writing.**
+            - Studying does not prepare students for independent research it is independent research pg34
+        - [Z:Permanent Notes should be atomic](<Z:Permanent Notes should be atomic.md>) There are three types of notes when taking smart notes. The first are fleeting notes. Fleeting Notes are temporary and used as a reminder for information. These notes will live for 1-2 days until you convert them to Permanent notes. Permanent Notes live forever in your second brain (slip-box) and are written meticulously and in full sentences so that they will be understandable even with the context completely removed. Lastly, there are project notes, which are project specific notes, which are taken from permanent notes and used for the purpose of a project only. These notes are stored in the project folder.
+            - In the old system, the question IS: Under What topic do I store this note? In the new system, the question is: In Which context will I want to stumble upon it again? pg 41
+        - [Z:Brainstorming is a byproduct of poor note-taking](<Z:Brainstorming is a byproduct of poor note-taking.md>) Having to brainstorm for excess amounts of time is the byproduct of poor note-taking. You should have more ideas than you can deal with instead of scratching your brain to push out a single idea.
+            - As proper note-taking is rarely taught or discussed, it is no wonder that almost every guide on writing recommends to start with brainstorming. If you haven’t written along the way, the brain is indeed the only place to turn to. pg 49
+        - Long-term productivity comes from a **good workflow**. This means that the work itself begins to energize us and carries us through the duration of the process. This concept is known as [Flow](<Flow.md>) and is the state one gets into when times fly while working on something. 
+            - A good workflow can easily turn into a virtuous circle, Where the positive experience motivates us to take on the new task with ease, which helps us to get better at what we are doing which in return makes it more likely for us to enjoy the work, and so on. pg 52
+        - Motivation is a limited resource and as such cannot be relied on to propel us forward through work. 
+            - A good workflow can easily turn into a virtuous circle, Where the positive experience motivates us to take on the new task with ease, which helps us to get better at what we are doing which in return makes it more likely for us to enjoy the work, and so on. pg 52
+        - Multitasking is a terrible idea. Studies show that multi-taskers when compared to those who do tasks one at a time, are not only far less efficient but also produce work at a far worse quality. Tackling multitasking is done through having a clear definitive structure between tasks. 
+            - When it comes to focused attention, we focus on one thing only, something we can sustain for only a few seconds, The maximum duration of focused attention seems not to have changed over time (Doyle and Zakrajsek 2013, 91)Focused attention is different from “sustained attention,” which we need to stay focused on one task for a longer period and is necessary to learn, understand or get something done. This is the kind of attention that is most certainly under threat from an increase in distractions. The average duration seems to have shrunken quite considerably over time we practice much less focused attention than we used to (ibid). pg60
+        - Try to be an expert and not a planner. An expert internalizes the rules and can act accordingly while planners get stuck when a situation does not go according to plan. 
+            - pg65
+        - Understanding is always better than remembering. If we are given 7 numbers to remember in 30 seconds, there is a good chance you will forget one. If we find a pattern between these 7 numbers, remembering requires simply understanding that 1 pattern.
+            - This is why it is so much easier to remember things we understand than things we don’t. It is not that we have to choose to focus either on learning or understanding. It is always about understanding and if it is only for the sake of learning. Things we understand are connected, either through rules, theories, narratives, pure logic, mental models or explanations. And deliberately building these kinds of meaningful connections is what the slip-box is all about. pg 69
+        - Unfinished tasks will continue to bother us subconsciously until we "mentally" check them off by writing it down. Conversely, if not written down, we have deliberately keep a mental task/question in our head subconsciously to ruminate on.  
+            - pg. 70
+        - Write notes so that even without context, it makes sense. A common beginner mistake is to simply **UNDERLINE** or **Highlight** and extract quotes
+            - Sometimes the only thing that is done is underlining sentences and making some comments in the margins of a book, which is almost like taking no notes at all. pg 77
+        - Taking notes by hand is BETTER than using a keyboard because your hand cannot physically copy everything in a lecture. As a result, you are forced to translate what is being said, or essentially understand and write in your own words.
+            - There is no secret to it and the explanation is pretty simple; Handwriting is slower and can’t be corrected as quickly as electronic notes. Because students can’t write fast enough to keep up with everything that is said in a lecture, they are forced to focus on the gist of what is being said, not the details. pg. 78
+        - Confirmation Bias hinders an open mind as it makes us selectively filter out content that does not support our beliefs. This leads us to become ignorant of new ideas and facts/logic.
+            - Confirmation bias is a subtle but major force. As the psychologist Raymond Nickerson puts it: “If one were to attempt to identify a single problematic aspect of human reasoning that deserves attention above all Others, the confirmation bias would have to be among the candidates for consideration” (Nickerson 1998,175). pg 79
+        - Slip-box System or zettelkasten system tackles confirmation bias because when taking notes we are objectively collecting facts without a hypothesis in mind. If insight becomes a threat to your academic writing you are doing it wrong. You must develop your ideas from the bottom-up. 
+            - pg 80
+        - There is a difference between familiarity and understanding. Familiarity is when you recognize a concept. Understanding comes when we can explain a concept using our own words.
+            - pg. 86
+        - Learning is hard work-- You need to put in work to make meaningful connections to concepts. If connections are pre-arranged, we are robbed of the work needed to form our own connections. Just like fast food-- it is neither nutritious or enjoyable, only convenient.
+            - pg.88
+        - Elaboration is a very good learning tool because it makes you really think about what you have read, analyze it, and figure out how it can be combined with other information to create new insights. 
+            - pg 89
+        - Cramming is one of the largest detractor to learning because it prevents us from making meaningful connections and forces us to resort to remembering information as opposed to understanding.
+            - pg. 103
+        - A depiction of the zettelkasten workflow as opposed to normal workflow:
+            - ![](https://lh5.googleusercontent.com/av-BaZKiNZ7jLmS9aF1-1AVOGRijsJ4MuQVFZSp3cuGTNfzSe786FW4IG5fDGIEEr2R8lcJ3eswSo_99vIPILgTtm8-5ejmXM-dn51kPRU9m62R_eyXZ1LUlBPVXENFG7TpS-S7G)
+        - Our mind learns and remembers things via connections. This is an example:
+            - I forgot Apoorva Havanur's name however I remembered he was Elena Chan's big in AKPSI. Thus, my mind worked by creating the follow connection
+                - Elena Chan -> Elena Chan's Big -> Since I knew this, I could easily find his name thru FB via Elena Chan -> found Apoorva's name
+        - We must let go of the notion we need to know where ever note resides, but rather focus on entry points that will lead to new ideas through the entry point's connection of notes.
+            - pg. 109
+        - There are two important reference notes needed according to Luhmen:
+            - Overview of a Topic (Head Notes)- Used as an entry point for other notes
+            - Note-to-Note references
+
+# Backlinks
+## [Z:Brainstorming is a byproduct of poor note-taking](<Z:Brainstorming is a byproduct of poor note-taking.md>)
+- **[Source](<Source.md>):** [LB:How to Take Smart Notes](<LB:How to Take Smart Notes.md>)
+
+## [Z:Doing something you don't want to is inefficient](<Z:Doing something you don't want to is inefficient.md>)
+- **[Source](<Source.md>):** [LB:How to Take Smart Notes](<LB:How to Take Smart Notes.md>)
+
+## [Z:Keep it Simple Stupid](<Z:Keep it Simple Stupid.md>)
+- **[Source](<Source.md>):** [LB:How to Take Smart Notes](<LB:How to Take Smart Notes.md>)
+
+## [Z:Permanent Notes should be atomic](<Z:Permanent Notes should be atomic.md>)
+- **[Source](<Source.md>):** [LB:How to Take Smart Notes](<LB:How to Take Smart Notes.md>)
+
+## [Z:Publicize your Ideas](<Z:Publicize your Ideas.md>)
+- **[Source](<Source.md>):** [LB:How to Take Smart Notes](<LB:How to Take Smart Notes.md>)
+
+## [Z:Use Writing as the tool for learning](<Z:Use Writing as the tool for learning.md>)
+- **[Source](<Source.md>):** [LB:How to Take Smart Notes](<LB:How to Take Smart Notes.md>)
+

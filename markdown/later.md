@@ -1,0 +1,10 @@
+- TV:
+    - {{query:{and:[[later]][[tv]]}}} #query
+- Movies:
+    - {{query:{and:[[later]][[movies]]}}} #query
+- Articles:
+    - {{query:{and:[[later]][[read-a]]}}} #query
+- Books:
+    - {{query:{and:[[later]][[read-b]]}}} #query
+- Tools:
+    - {{query:{and:[[later]][[Tools]]}}} #query

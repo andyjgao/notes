@@ -1,0 +1,36 @@
+- [This time last year]([April 10th, 2021](<April 10th, 2021.md>))
+- **[Daily Journal](<Daily Journal.md>):**  {{word-count}} 
+    - "What would I like to write about?"
+        - Today, I  woke up ~8:30 and potatoed until 9:10 before I got out of bed, which an improvement from yesterday. Happy's potty training is still continuing. Whether he's improving or not, I am not sure but we will see.
+    - "If I change one thing, it would be"
+        - to improve my focus in my life
+    - "I dreamed about"
+        - Taking a pop quiz in Ms. Childs class about a reading we had to do and I forgot to read it and feeling regret. I also had a dream about dueting with Jimmy Fallon after he came to our school for an assembly. I improvised some kind of song and everyone laughed
+- **[Today's Tasks](<Today's Tasks.md>):** 
+    - [x] Fix itsAmyAndAndy's Website
+    - [ ] Read for an hour
+    - [x] Talk with Christina
+    - [x] Meditate
+    - [x] Walk happy
+- **[Today's Schedule](<Today's Schedule.md>):**  
+    - 11:00- "[x] Meditate"
+    - 11:30 -"[x] Fix itsAmyAndAndy's Website"
+    - 2:00 - "[ ] Read for an hour"
+    - 4:00 - "[x] Walk happy"
+    - 4:30 - "[x] Talk with Christina"
+- **[Today's Notes](<Today's Notes.md>):**
+    - The 22 Immutable Laws of Marketing by Al Ries [later](<later.md>) [read-b](<read-b.md>) [marketing](<marketing.md>)
+    - Traction by Gabriel Weinberg and Justin Mares [later](<later.md>) [read-b](<read-b.md>) [marketing](<marketing.md>)
+    - Different by Youngme Moon [later](<later.md>) [read-b](<read-b.md>) [marketing](<marketing.md>)
+    - Words that Work by Frank Luntz [later](<later.md>) [read-b](<read-b.md>) [marketing](<marketing.md>)
+    - Made to Stick by Chip and Dan Heath [later](<later.md>) [read-b](<read-b.md>) [marketing](<marketing.md>)
+    - Zero to One by Peter Thiel [later](<later.md>) [read-b](<read-b.md>) [entrepreneurship](<entrepreneurship.md>)
+    - Contagious by Jonah Berger [later](<later.md>) [read-b](<read-b.md>) [marketing](<marketing.md>)
+    - Blue Ocean Strategy by W. Chan Kim [later](<later.md>) [read-b](<read-b.md>) [marketing](<marketing.md>)
+    - Influence by Robert Cialdini [later](<later.md>) [read-b](<read-b.md>) [marketing](<marketing.md>)
+    - The Boron Letters [later](<later.md>) [read-b](<read-b.md>) [marketing](<marketing.md>)
+
+- **[Evening Examine](<Evening Examine.md>):** 
+    - Overall, a pretty productive day. Accomplished almost everything I have tasked myself to do, but still did not read today.
+- #[Quick Capture](<Quick Capture.md>)
+    - Ms child's pop quiz meeting Jimmy Fallon

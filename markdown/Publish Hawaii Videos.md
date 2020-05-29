@@ -1,0 +1,15 @@
+- Projects::
+    - Due Date:: [[March 31st, 2020]]
+    - Completed Date:: [[March 31st, 2020]]
+    - Status:: #[[archive]]
+    - Related Goals:: #[[G:itsAmyAndAndy:Reach 1,000 Subscribers]]
+    - Success Criteria:: Successfully publish and edit all Hawaii videos
+    - Tags::
+- Roadmap:
+    - {{[[DONE]]}} intro video
+    - {{[[DONE]]}} diamond crater video
+    - {{[[DONE]]}} oahu food video
+        - {{[[DONE]]}} Finish video animations
+    - {{[[DONE]]}} Haleakalā video
+    - {{[[DONE]]}} Road to Hana video
+        - {{[[DONE]]}} Create Thumbnail

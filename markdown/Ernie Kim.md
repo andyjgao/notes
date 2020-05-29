@@ -1,0 +1,9 @@
+- Phone Number:: 
+- Email:: 
+- Company:: [[Paris Baguette]] Freelance Fashion
+- Role:: Barista 
+- Location:: Marlboro, NJ
+- How We Met:: Pre-calc Class Soph HS
+- Birthday:: 
+- Tags:: #People
+- 

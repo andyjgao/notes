@@ -1,0 +1,10 @@
+- Goals::
+    - Related Projects:: #[[P:Our First Year Info-graphic]] 
+    - Goal Status:: #[[archive]]
+    - Success Criteria:: Plan a successful 1 year anniversary surprise
+    - Completed Date::
+    - Tags:: #[[Amy Tsai]] 
+- # Ideas
+    - Create a Photo Compilation for Amy
+    - Create a website for Amy
+    - Buy a Pusheen

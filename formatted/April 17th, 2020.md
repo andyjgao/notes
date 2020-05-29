@@ -1,0 +1,49 @@
+- [This time last year]([April 17th, 2021](<April 17th, 2021.md>))
+- **[Daily Journal](<Daily Journal.md>):**
+    - "Is anything bugging me?"
+        - Woke up at ~8am but went back to sleep and woke up 2 hours later ~10am. Then I proceeded to potato for another 30 mins. That is 2hrs 30mins wasted. I need figure out a way to fix this.
+    - "If I change one thing, it would be"
+        - Wake up at 6am
+    - Posted my article onto my social media. Received somehow surprisingly 26 shares and counting on my [Article: Why I love Meditation](<Article: Why I love Meditation.md>)
+- **[Today's Tasks](<Today's Tasks.md>):**
+    - {{query: {and: [TODO](<TODO.md>) {not: [Overdue Tasks](<Overdue Tasks.md>)}{between: [today](<today.md>) [today](<today.md>)}}}} [query](<query.md>)
+- **[Today's Schedule](<Today's Schedule.md>):**
+- **[Today's Notes](<Today's Notes.md>):**
+    - [David Perell](<David Perell.md>) and [Matthew Kobach](<Matthew Kobach.md>)'s Workshop on [Twitter](<Twitter.md>)
+        - Video Link
+            - {{youtube: https://www.youtube.com/watch?v=P5d6zm3YbqM&feature=youtu.be}}
+        - David's Lessons:
+            - Why Twitter is valuable
+                - It's valuable because of the instant feedback on your thoughts
+                    - makes it useful for writing, entrepreneurship, anything where writing and expressing thoughts are important
+                - Twitter posts should offer insight
+            - How to write a good tweet
+                - Make sure to compress and** compact your ideas** as much as possible
+                - **Don't use hashtags**, instead reply to famous people with insightful responses. Twitter even recommend to **limit posts to 2 clickable texts**
+                - **Simplicity**- People browse Twitter, they don't read it
+                - **Novelty/Insight** - Post new insightful points. Write tweets that people feel but can't put into words
+            -  Curating Feed
+                - Who to Follow:
+                    - Individuals, Not Publications (No CNN)
+                        - Find someone you like
+                            - Scroll through the Likes of people you like to find interesting individuals
+                    - Avoid Twitter Recommendations
+                - Who to Un-Follow:
+                    - Spammers
+                    - Stressors
+                    - **Anything that doesn't add value**
+                - Following someone means that you are giving FULL permission for them to brainwash you with their ideas. This means you must curate as much as possible. 
+            -  Every Tweet should have one idea.  Make this the starting sentence then explain that one sentence in the second paragraph. The first sentence is a pitch for you to read the rest of the tweet.
+            - Have a Test Account 
+
+        - Matt's Lessons:
+            - Make sure you can answer these questions
+                - Someone should follow me because .......
+                - I will only post about ......, ......, and ........
+                - Start with a niche and build from it
+                - Be a Lighthouse for Like minded People
+
+# Backlinks
+## [📑Weekly Plan](<📑Weekly Plan.md>)
+- Friday: [April 17th, 2020](<April 17th, 2020.md>)
+

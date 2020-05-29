@@ -1,0 +1,19 @@
+- **[Blog Posts](<Blog Posts.md>):**
+    - **[Target Date](<Target Date.md>):** [April 28th, 2020](<April 28th, 2020.md>) 
+    - **[Tags](<Tags.md>):** [Lifestyle](<Lifestyle.md>) [Productivity](<Productivity.md>)
+    - **[Status](<Status.md>):** #[delayed](<delayed.md>)
+    - **[Link](<Link.md>):** 
+- ## Ideas
+    - You should create a strong filter for your life because your inputs become your output. You watch, read, talk to all different types of people, media etc. These people then become your output. You slowly adopt parts of their thinking and way of life. A strong filter means being deliberate about what you read, watch, make friends with. Its easy to just accept anything in sight. However, by doing so, you are essentially letting them be a part of your thinking, thought process etc. 
+- ## Research
+    - ## Inputs
+        - Input 
+    - ## Outputs
+    - ## Why Creating a filter is important?
+    - ## How to Create a Filter?
+- ## Drafts
+    - Information has never been so easy to access as it is today. Everything is one Google Search away. 
+    - Now more than ever, we need to create a strong filter in our life.
+    - ## Why Creating a Filter is Important?
+    - You are the average of the five people you hang out with. You are what you eat. These idioms are all saying the same thing: your inputs become your outputs. 
+    - A concept in [meditation](https://www.andyjgao.com/blog/why-i-created-blog/) is to live life with more intention. Creating a filter 

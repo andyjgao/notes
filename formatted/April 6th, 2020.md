@@ -1,0 +1,1 @@
+- SRS is like reps and sets #[Article Ideas](<Article Ideas.md>)

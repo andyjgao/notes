@@ -1,0 +1,17 @@
+- Questions
+    - Is anything bugging me?
+    - What would I like to write about?
+    - What is your main focus of the day?
+    - What are 3 things you're grateful for?
+    - Do you have any leftover thoughts?
+    - How do I feel?
+- Prompts
+    - I love it when
+    - I hate it when
+    - When I wake up
+    - When I go to sleep
+    - If I change one thing, it would be
+    - Next year I want to
+    - I miss
+    - I dreamed about
+    - Waking up Routine

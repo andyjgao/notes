@@ -1,0 +1,9 @@
+- 📝Published [[Blog Posts]]  
+- 💌Published [[Monday Mail]]
+- 💡 [[Article Ideas]]
+- ### Working Article Ideas
+    - {{query: {and: [[Article Ideas]] {or: [[working]]}}}} #query
+- **Articles In Progress**
+    - {{query: {and: [[Blog Posts]] [[in progress]]}}} #query
+- **Newsletter In Progress**
+    - {{query: {and: [[Monday Mail]] [[in progress]]}}} #query

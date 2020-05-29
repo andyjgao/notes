@@ -1,0 +1,8 @@
+- Phone Number:: -
+- Email:: austinschlessinger@gmail.com
+- Company:: Deloitte in DC  
+- Role:: Business Analyst in Federal Government Sector
+- Location:: Washington, DC / Freehold, NJ
+- How We Met:: Middle School
+- Birthday::
+- Tags:: #People

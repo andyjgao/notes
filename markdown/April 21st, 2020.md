@@ -1,0 +1,12 @@
+- [This time last year]([[April 21st, 2021]])
+- Daily Journal::
+    - I need to figure out a way to wake up earlier. Today, I think im going to put my phone as far away as possible, so I am forced to wake up. 
+    - Things I want to accomplish today: Get a newsletter working, Read 100 pgs of The Design of everyday things, and figure out chrome extensions.
+- Today's Tasks::
+    - {{query: {and: [[TODO]] {not: [[Overdue Tasks]]}{between: [[today]] [[today]]}}}} #query
+- Today's Schedule::
+    - 12:30 Ate Smoothie Bowl
+    - 17:12 Finish creating [Impossible List](https://www.andyjgao.com/todo/) and [Monday Mail](https://mondaymail.substack.com/)
+    - 19:44 Finished Eating Dinner
+    - 21:30 Reading about [[Chrome Extensions]]
+- Today's Notes::

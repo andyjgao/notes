@@ -1,0 +1,7 @@
+- Projects::
+    - Due Date::
+    - Completed Date::
+    - Status:: #[[in progress]]
+    - Goal::
+    - Tags:: #[[Roam Research]] #JSON #Python
+- 

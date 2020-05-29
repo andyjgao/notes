@@ -1,0 +1,8 @@
+- **[Phone Number](<Phone Number.md>):**
+- **[Email](<Email.md>):** 
+- **[Company](<Company.md>):**
+- **[Role](<Role.md>):**
+- **[Location](<Location.md>):**
+- **[How We Met](<How We Met.md>):**
+- **[Birthday](<Birthday.md>):**
+- **[Tags](<Tags.md>):** [People](<People.md>)

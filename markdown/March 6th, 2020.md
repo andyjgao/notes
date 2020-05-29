@@ -1,0 +1,59 @@
+- Things to do:
+    - Get breakfast
+    - Go to Pearl Harbor
+    - Get Poke (1130-630 ask [[Amy Tsai]] for place)
+    - Waikiki beach
+- [[Hawaii]] Day 1: Oahu
+    - Hawaiian Crown Plantation:: https://hawaiiancrown.com/
+        - Walked to the Beach by Waikiki and ate Acaii Bowl there
+        - Acaii Bowl $10.03
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FPvThw4Eaju?alt=media&token=048268e9-75a0-44ab-9250-643125e20904)
+    - Walked to DiamondHead 
+        - https://hawaiistateparks.org/parks/oahu/diamond-head-state-monument/
+        - 45 min walk from Waikiki Beach
+    - Did the hike to the top of Diamond Head Crater
+        - Is a pretty hefty hike, need to be somewhat in shape
+        - $1 dollar entrance fee
+        - Views are gorgeous
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2F7duyc2-A9P?alt=media&token=bee365d2-ddf7-42bc-bd77-b5730d7fccd2)
+        - Bough a fresh coconut at the bottom of the crater
+            - Super Fresh
+            - Inside meat was also super delicious
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2F3yuZoBTLJZ?alt=media&token=71d8473e-b9d7-47a8-9f60-88719ea6d6ad)
+    - Rainbow Drive-In:: https://rainbowdrivein.com/
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2F633drvF2cC?alt=media&token=39146613-3e10-44c7-a53f-754099274880)
+        - Was recommended by Eddie our Costco Representative Guide
+        - Very Cheap Eats, Guy Fierri did a review here
+        - We got Hawaiian Plate Lunch
+            - BBQ Beef, Boneless Chicken and Mahi Mahi  $10.50
+            - Comes with two scoops of rice and one scoop of macaroni salad
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FQ4w1niAcax?alt=media&token=cb3176ce-06fa-494f-9ff5-370773c48bc7)
+    - Doraku:: https://dorakusushi.com/store_locator/waikiki/
+        - Went for Happy Hour: https://dorakusushi.com/wp-content/uploads/2018/01/happy-hour-menu-waikiki.pdf
+        - Poke was $6 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FsBBtAwxpt4?alt=media&token=064586f5-293b-456b-81f6-6ec0f0d427c4)
+        - Cocktails/Spirits $6
+            - Lychee Martini
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FY4VFqhImjM?alt=media&token=1012c640-49e3-46ea-8ac3-0487d185dd0b)
+    - kulu kulu::http://www.kulukulucake.com/
+        - A dessert place known for creme-puffs
+        - We got the diamond head chocolate puffs for $2.40
+            - be prepared for its sweetness
+            - Has a chocolaty exterior with a custard filling inside
+            - Not really a dessert person but if I was, this place would be bomb
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FzjKX7DHVdz?alt=media&token=9b39a699-6f9c-48d4-b62b-fb8e403a7515)
+    - Musubi Cafe IYASUME:: https://iyasumehawaii.com/
+        - Musubi is a block of rice tied to a piece of meat(usually spam) using nori
+        - One of my favorite spots in all of Hawaii
+        - Delicious food for a price you can't beat
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2Fqpa4hk1eC-?alt=media&token=d3c20873-353b-46b7-98b6-bfa382d573db)
+
+        - Avocado Egg Bacon **$2.98**
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FeNySsT7k4H?alt=media&token=4deea980-bd87-4974-8d3e-e1861ec64e5b)
+        - Poke Bowl **$8.99**
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FEdNLfUUFG0?alt=media&token=3bbf1698-0eaa-4880-b249-07c9327fc7f6)
+    - Yard House Happy Hour:: https://www.yardhouse.com/happy-hour/hi/honolulu-restaurant/8316
+        - $2 dollars off Beer
+        - Favorite quote of the trip from the bartender: "Are you honeymooning or just practicing?"
+        - Bartender gave us his special cider drink:
+            - A concoction of every cider, was quite strong

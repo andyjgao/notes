@@ -1,0 +1,3 @@
+- [[Projects]]
+- [[Goals]]
+- [[Areas]]

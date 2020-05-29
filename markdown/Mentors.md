@@ -1,0 +1,3 @@
+- [[Nat Eliason]]
+- [[Justin Mares]]
+- [[Naval Ravikant]]

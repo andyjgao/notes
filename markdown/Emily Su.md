@@ -1,0 +1,8 @@
+- Phone Number:: 
+- Email:: emilyemsu@gmail.com
+- Company:: Palantir
+- Role:: Product Design
+- Location:: [[New York City]]
+- How We Met:: She was my PIC
+- Birthday:: 
+- Tags:: #People

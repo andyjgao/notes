@@ -1,0 +1,7 @@
+- Permanent Notes::
+    - Source:: [[LB:The Design of Everyday Things]]
+    - Tags:: #memory
+    - Relevant Notes::
+    - Notes::
+        - When we use approximate and simplified models, we greatly increase the retrieval time of items. A great example is when converting Fahrenheit to Celsius. 
+        - The normal equation $$C = ((F-32) * 5)/9$$ can be greatly simplified by reducing it to $$C = ((F-32) /2) $$ leading to faster retrieval and calculations. However, the speed of retrieval via the simplified model comes at a cost of accuracy. The new equation has a margin of error of 5 degrees.  

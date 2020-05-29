@@ -1,0 +1,2 @@
+- A good mechanical keyboard
+- An Electric Scooter

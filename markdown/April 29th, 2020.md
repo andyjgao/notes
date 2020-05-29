@@ -1,0 +1,6 @@
+- [This time last year]([[April 30th, 2021]])
+- Daily Journal::
+- Today's Tasks::
+    - {{query: {and: [[TODO]] {not: [[Overdue Tasks]]}{between: [[today]] [[today]]}}}} #query
+- Today's Notes::
+    - Added a Search bar to [[A:andyjgao]]

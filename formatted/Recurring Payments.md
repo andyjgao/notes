@@ -1,0 +1,4 @@
+- **[[ ] Amazon Prime](<[ ] Amazon Prime.md>):** $131.20/year [April 24th, 2021](<April 24th, 2021.md>)
+- **[[x] Spotify](<[x] Spotify.md>):** $2.68/mo every [May 13th, 2020](<May 13th, 2020.md>)
+- **[[ ] Grammarly](<[ ] Grammarly.md>):** $139.95/year [April 17th, 2021](<April 17th, 2021.md>)
+- [ ] **Pay Rent:** $645/month [June 1st, 2020](<June 1st, 2020.md>)

@@ -1,0 +1,3 @@
+- Location:: Waikiki
+- Type:: Stand
+- Rating:: {{[[slider]]}}

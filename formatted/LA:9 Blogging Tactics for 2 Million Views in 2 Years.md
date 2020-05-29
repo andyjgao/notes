@@ -1,0 +1,57 @@
+- **[Literature Notes](<Literature Notes.md>):**
+    - **[Author](<Author.md>):** [Nat Eliason](<Nat Eliason.md>)
+    - **[Source](<Source.md>):** [9 Blogging Tactics for 2 Million Views in 2 Years - Nat Eliason](https://www.nateliason.com/blog/2-million)
+    - **[Recommended By](<Recommended By.md>):** 
+    - **[Tags](<Tags.md>):** [Articles](<Articles.md>) [marketing](<marketing.md>)
+    - **[Notes](<Notes.md>):**
+        - **Never Lie or make up things to your Readers**
+            - If you have no experience about a certain topic, do not write about it.
+            - People will see right through your charade.
+            - Experience something, then write about it.
+        - **Write Evergreen content**
+            - We should write in-depth guides that will LAST, not ephemeral clickbait.
+            - [David Perell](<David Perell.md>) also mentions this in his 5 pillars of writing:
+                - "[Z:Default to writing Evergreen content](<Z:Default to writing Evergreen content.md>)"
+                    - "Make content that stays relevant even years after writing it"
+                    - "Write about things that everybody knows, [but nobody around you knows], and you have a unique perspective on."
+        - **Write something New, or the Best Version of It**
+            - Write something new that hasn't been talked about.
+                - You can create new terms => very effective for SEO searching
+                - For example, Nat created Fauxductivity which now ranks and goes straight to his website
+            - Or Write the best version of something which trumps any content you've seen
+        - **Publish what you're scared of**
+            - A good heuristic for publishing **good content** is to publish something you're scared of. Vulnerability is attractive because the most authentic version of yourself is also going to be the most relatable. 
+            - Being vulnerable takes courage and the vulnerability is what people most likely have also thought of but never said/wrote into words
+            - **SEO is the best form of traffic source**
+                - Search engine is your best friend in terms of content discoverability
+                - 
+- Highlights
+    - ## 1. Don’t be a Charlatan: Write About What You Have Experience With
+        - The vast majority of people blogging and writing online are writing about things they have little or no experience with, and that they should not be giving advice on.
+        - Instead of creating more of that junk, write about what you’re experienced with and qualified to talk about. Try waking up at 4AM every day for a month and tell that story. Go [without eating for 5 days](http://www.nateliason.com/5-day-water-fast-health-benefits/). Get [drunk and start a company](http://www.nateliason.com/fratboxes-start-company-weekend-less-25-150-sales/). When you write about what you have done and what you learned, it creates more engaging, useful content, while also telling a fun story that brings readers along for a ride.
+    - ## 2. Write for the Long Term, Evergreen Trumps All
+        - The Internet is awash with ephemeral content that becomes meaningless within 24 hours, and you should do yourself and the world a favor and NOT contribute to it. We don’t need more noise, what we need is more strong, in-depth content that lasts for months and years.
+    - ## 3. Write Something New, or Write The Best Version of It
+        - Aim for writing new things that haven’t been talked about. Or, choose common topics that haven’t been covered effectively and write the best content out there on them.
+    - ## 4. Publish What You’re Scared Of
+        - Just about everything I’ve been scared to publish has done well, and just about everything that’s done well I’ve been scared to publish.
+        - Now, I try to use that fear as a sort of guiding compass. If I have an idea for an article that starts to scare me, that’s when I know I might be onto something good.
+    - ## 5. There are 5 Traffic Sources, and SEO is the Best
+        - People get to your site one of five ways:
+        - Direct (type in the URL)
+        - Email (clicked from an email)
+        - Referral (clicked a link from another site)
+        - Social (saw it on Facebook, Twitter, etc.)
+        - SEO (sent from a search engine)
+        - **SEO**: Then there’s the magic of SEO, where you write something and then Google sends you traffic for months with zero extra work from you. Search engines drive over half of all web traffic, more than all other sources combined, and way more than all other free sources. There is absolutely no competition to SEO if you want to get a lot of traffic. If you can get ranked on Google, you win. It’s as simple as that.
+    - ## 7. Stalls, Declines, and Fluctuations Happen
+    - ## 8. Expect the 80/20 Rule
+    - ## 9. Tell a Story, Answer a Question, or Create a Heuristic
+        - Answer a question that many people have that isn’t being answered well
+        - Tell a story that people will enjoy and learn something from
+        - Create a heuristic, some new idea that people can use in their lives
+
+# Backlinks
+## [Z:Default to writing Evergreen content](<Z:Default to writing Evergreen content.md>)
+- **[Source](<Source.md>):** [LA:The Ultimate Guide to Writing Online](<LA:The Ultimate Guide to Writing Online.md>) [LA:9 Blogging Tactics for 2 Million Views in 2 Years](<LA:9 Blogging Tactics for 2 Million Views in 2 Years.md>)
+

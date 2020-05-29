@@ -1,0 +1,13 @@
+- [This time last year]([[April 16th, 2021]])
+- Daily Journal::
+    - "Is anything bugging me?"
+        - Another Day, Another PMO waking up at 10:30 RIP
+            - Maybe the strategy is to exercise, bc insomnia is what motivates me to do this
+- Today's Schedule::
+    - {{query: {and: [[TODO]] {not: [[Overdue Tasks]]}{between: [[today]] [[today]]}}}} #query
+- Today's Notes::
+    - Workout with [[Amy Tsai]] #postquarrantine
+- Evening Examine::
+    - Today was a pretty productive day.
+        - Published out my meditation article
+        - Made Edits to my website

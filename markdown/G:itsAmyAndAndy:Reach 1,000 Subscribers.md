@@ -1,0 +1,6 @@
+- Goals::
+    - Related Projects:: #[[Publish Hawaii Videos]]
+    - Goal Status:: #[[in progress]]
+    - Success Criteria:: Reach 1,000 Subscribers
+    - Completed Date:: 
+    - Tags:: #Youtube #A:itsAmyAndAndy

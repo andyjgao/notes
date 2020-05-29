@@ -1,0 +1,19 @@
+- #[[Quick Capture]]
+    - add more notes on the concept of [[Flow]]
+- [This time last year]([[April 25th, 2021]])
+- Daily Journal::
+    - "Waking up Routine"
+        - Woke up around 7:30 but fully awoke around 8:20. Rolled around in bed until 8:57 when I then decided to shower and come down stairs. Was tasked with opening rice bag and trying to fix noodle maker.
+- Today's Tasks::
+    - {{query: {and: [[TODO]] {not: [[Overdue Tasks]]}{between: [[today]] [[today]]}}}} #query
+- Today's Schedule::
+- Today's Notes::
+    - https://blog.theboringtech.io/2020/04/16/time_is_the_real_currency.html #later #read-a
+    - How to open rice bag
+        - Untangle one of the edges and pull. A better way is to use Scissors and cut edges then pull
+    - [[Flow]]
+        - Flow state describes being completely immersed in an activity and losing track of time
+        - Tasks should be at the right level of difficulty: Too easy and you will easily become bored and apathetic. Too hard and you will feel frustrated and disheartened. You must find an activity at a level of difficultly that slightly exceeds your skill level which you will need full conscious attention to do.
+        - This conflation of constant tension and continual progress will keep you in a state of flow for a long duration.  
+    - Create a bot that responds words of affirmation to an angry spouse/SO over messenger #[[Project Ideas]]
+- Evening Examine::

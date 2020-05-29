@@ -1,0 +1,16 @@
+- [This time last year]([April 13th, 2021](<April 13th, 2021.md>))
+- **[Daily Journal](<Daily Journal.md>):**
+    - 10:30 - 1:30: Took [Happy Gao](<Happy Gao.md>) to the Vet today at Howell Animal Hospital.
+        - He has been feeling unwell for the past 2 days. Symptoms include Wet Stool (almost diarrhea like), vomiting, fatigue and loss of appetite.
+        - The Vet ran blood work, cbc and a full diagnostic. The blood work showed dehydration, so they administered fluids via injection. Based on the blood work, the vet suspects either Addison's Disease or Gastroenteritis. 
+        - 3 injections were given to Happy: Cerenia (used to treat motion sickness), dexamethasone (treats inflamation), and baytril (antibiotics).
+        - 3 medications were sent home: Clavamox(antibiotics), Cerenia(used to treat motion sickness), Entyce(used to increase appetite). 
+        - Happy should be fed boiled chicken and rice.
+        - ACTH Test ($350) is used to test for Addison's Disease
+        - Total Cost for This appointment: **$743.00**
+        - Doctor's name: Mahmoud S Hussein
+- **[Today's Schedule](<Today's Schedule.md>):**
+- **[Today's Notes](<Today's Notes.md>):**
+    - **[What is cbc?  [[[interval](<[[interval.md>)](<What is cbc?  [[[interval](<[[interval.md>).md>):**1.9]] [[[factor](<[[factor.md>)::2.05]] [April 18th, 2020](<April 18th, 2020.md>)
+        - A complete blood count (**CBC**) is a blood **test** used to evaluate your overall health and detect a wide range of disorders, including anemia, infection and leukemia. A complete blood count **test** measures several components and features of your blood, including: Red blood cells, which carry oxygen.
+- 

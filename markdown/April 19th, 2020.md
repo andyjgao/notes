@@ -1,0 +1,2 @@
+- #[[Quick Capture]]
+    - create a live chat experience that replicates real-world experience, useful for dating bc u can view a profile of a person accept the call or deny it. #[[startup ideas]]
