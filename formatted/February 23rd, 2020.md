@@ -1,2 +1,0 @@
-- Today we decided to cancel our trip to [Europe](<Europe.md>) due to the [Coronavirus](<Coronavirus.md>) outbreak. 
-- 

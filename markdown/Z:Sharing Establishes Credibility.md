@@ -1,6 +1,0 @@
-- Permanent Notes::
-    - Source::[[LV:Everyone Can Build a Twitter Audience]]
-    - Tags:: #Twitter #[[Building an Audience]]
-    - Relevant Notes::
-    - Notes::
-        - Even if you are a newbie at certain tasks, sharing what you are doing will establish credibility in that specific field because it allows the audience to see your growth and development. Credibility is built on trust and [[Z:Transparency Builds Trust]]

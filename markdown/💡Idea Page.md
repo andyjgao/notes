@@ -1,3 +1,0 @@
-- [Things to Read/Watch/Listen Later]([[later]])
-- [[Project Ideas]]
-- [Interesting Thoughts]([[thoughts]])

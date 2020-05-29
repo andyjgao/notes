@@ -1,4 +1,0 @@
-- Amy came over to our house to edit videos for our [A:itsAmyAndAndy](<A:itsAmyAndAndy.md>) Youtube  Channel
-- Worked on documenting trip for Hawaii
-- Amy and I made Spam Masubi for the first time
-- Richard came home

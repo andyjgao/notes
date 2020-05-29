@@ -1,2 +1,0 @@
-- [[Permanent Notes]]
-- [[Literature Notes]]

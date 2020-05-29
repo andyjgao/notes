@@ -1,3 +1,0 @@
-- Location:: Edison,NJ
-- Type:: #korean #restaurant
-- Rating:: {{[[slider]]}}

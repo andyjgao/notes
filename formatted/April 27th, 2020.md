@@ -1,9 +1,0 @@
-- [This time last year]([April 27th, 2021](<April 27th, 2021.md>))
-- **[Daily Journal](<Daily Journal.md>):**
-- **[Today's Tasks](<Today's Tasks.md>):**
-    - {{query: {and: [TODO](<TODO.md>) {not: [Overdue Tasks](<Overdue Tasks.md>)}{between: [today](<today.md>) [today](<today.md>)}}}} [query](<query.md>)
-- **[Today's Schedule](<Today's Schedule.md>):**
-- 13:00 - Putting notes for chapter 2 of [LB:The Design of Everyday Things](<LB:The Design of Everyday Things.md>) into Roam
-- 18:24 - Spent from 1pm to now hanging out with [Amy Tsai](<Amy Tsai.md>) who I have not seen in over a month. It was a good time
-- **[Today's Notes](<Today's Notes.md>):**
-    - **Note to self:** you are most likely right, don't trust the computer. They have bugs

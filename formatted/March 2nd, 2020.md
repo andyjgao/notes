@@ -1,5 +1,0 @@
-- Got [Tofu House](<Tofu House.md>) today with [Amy Tsai](<Amy Tsai.md>)
-    - Ordered a Beef Tofu Stew
-    - Amy got a Clam Tofu Stew
-- Bumped into [Ernie Kim](<Ernie Kim.md>) @ [Paris Baguette](<Paris Baguette.md>) and gave me a free coffee
--  Watched Moana w/ [Amy Tsai](<Amy Tsai.md>) in preparation for our trip to [Hawaii](<Hawaii.md>)

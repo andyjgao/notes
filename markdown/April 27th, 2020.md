@@ -1,9 +1,0 @@
-- [This time last year]([[April 27th, 2021]])
-- Daily Journal::
-- Today's Tasks::
-    - {{query: {and: [[TODO]] {not: [[Overdue Tasks]]}{between: [[today]] [[today]]}}}} #query
-- Today's Schedule::
-- 13:00 - Putting notes for chapter 2 of [[LB:The Design of Everyday Things]] into Roam
-- 18:24 - Spent from 1pm to now hanging out with [[Amy Tsai]] who I have not seen in over a month. It was a good time
-- Today's Notes::
-    - **Note to self:** you are most likely right, don't trust the computer. They have bugs

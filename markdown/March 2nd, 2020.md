@@ -1,5 +1,0 @@
-- Got [[Tofu House]] today with [[Amy Tsai]]
-    - Ordered a Beef Tofu Stew
-    - Amy got a Clam Tofu Stew
-- Bumped into [[Ernie Kim]] @ [[Paris Baguette]] and gave me a free coffee
--  Watched Moana w/ [[Amy Tsai]] in preparation for our trip to [[Hawaii]]

@@ -1,6 +1,0 @@
-- [This time last year]([April 30th, 2021](<April 30th, 2021.md>))
-- **[Daily Journal](<Daily Journal.md>):**
-- **[Today's Tasks](<Today's Tasks.md>):**
-    - {{query: {and: [TODO](<TODO.md>) {not: [Overdue Tasks](<Overdue Tasks.md>)}{between: [today](<today.md>) [today](<today.md>)}}}} [query](<query.md>)
-- **[Today's Notes](<Today's Notes.md>):**
-    - Added a Search bar to [A:andyjgao](<A:andyjgao.md>)

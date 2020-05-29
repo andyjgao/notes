@@ -1,3 +1,0 @@
-- [Nat Eliason](<Nat Eliason.md>)
-- [Justin Mares](<Justin Mares.md>)
-- [Naval Ravikant](<Naval Ravikant.md>)

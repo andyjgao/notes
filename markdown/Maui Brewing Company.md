@@ -1,3 +1,0 @@
-- Location:: Waikiki
-- Type:: Restaurant
-- Rating:: {{[[slider]]}}

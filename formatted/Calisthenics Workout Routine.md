@@ -1,9 +1,0 @@
-- Chris Heria Full Body Home Workout (4 times)
-    - Close-Grip Triceps Dips - 20 Reps
-    - L-Sits - 15 secs
-    - Explosive Pushups - 15 reps
-    - Elevated Pike Pushups -15 reps
-    - Burpees - 10 reps
-    - Pistol Squats - 10 reps each side
-    - Bicycle Crunches - 30 secs Super intensity
-    - Low Plank to high Plank - 20 reps

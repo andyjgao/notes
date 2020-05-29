@@ -1,8 +1,0 @@
-- Phone Number::
-- Email:: 
-- Company::
-- Role::
-- Location::
-- How We Met::
-- Birthday::
-- Tags:: #People

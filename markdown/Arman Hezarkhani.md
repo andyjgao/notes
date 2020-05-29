@@ -1,8 +1,0 @@
-- Phone Number::
-- Email:: arman@ahez.co
-- Company:: [[Parthean]]
-- Role:: CEO & Founder
-- Location:: 
-- How We Met:: Sigep
-- Birthday::
-- Tags:: #People

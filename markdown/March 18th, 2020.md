@@ -1,6 +1,0 @@
-- Gratitude:: 
-- Today's Tasks:: 
-    - "{{[[TODO]]}} Make Blog [[March 18th, 2020]]"
-    - 
-- Today's Schedule:: 
-- 

@@ -1,8 +1,0 @@
-- {{[[DONE]]}} Make Thumbnail
-- {{[[TODO]]}} Make Blog [[March 18th, 2020]]
-- {{[[DONE]]}}  Finish Documentation
-- How to create outline thumbnail in Youtube https://www.youtube.com/watch?v=mGBdGZ7AfLA
-- Conversations with [[Amy Tsai]]
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FNf0JtLU0K8?alt=media&token=41ecc2b1-9c6f-456d-b774-14986d7070e5)
-- How to get more done in 4 hours than most do in a day #[[Article Ideas]]
-- Why I use Webflow for my website as a Software Engineer 

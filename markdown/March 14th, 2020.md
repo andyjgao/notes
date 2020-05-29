@@ -1,5 +1,0 @@
-- Things to accomplish today:
-    - {{[[TODO]]}}  Finish Hawaii Journaling
-    - {{[[TODO]]}} Finish Setting up Website
-    - {{[[TODO]]}} Begin Draft for Hawaii Blog
-    - 

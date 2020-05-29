@@ -1,8 +1,0 @@
-- Phone Number:: 609-721-1331
-- Email:: amy.tsai216@gmail.com
-- Company:: Global Atlantic
-- Role:: Analyst
-- Location:: Princeton, NJ
-- How We Met:: AKPsi Pledging (Alpha Gamma)
-- Birthday:: 02-16-98 [[February 16th, 2021]]
-- Tags:: #People

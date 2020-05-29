@@ -1,9 +1,0 @@
-- 📝Published [Blog Posts](<Blog Posts.md>)  
-- 💌Published [Monday Mail](<Monday Mail.md>)
-- 💡 [Article Ideas](<Article Ideas.md>)
-- ### Working Article Ideas
-    - {{query: {and: [Article Ideas](<Article Ideas.md>) {or: [working](<working.md>)}}}} [query](<query.md>)
-- **Articles In Progress**
-    - {{query: {and: [Blog Posts](<Blog Posts.md>) [in progress](<in progress.md>)}}} [query](<query.md>)
-- **Newsletter In Progress**
-    - {{query: {and: [Monday Mail](<Monday Mail.md>) [in progress](<in progress.md>)}}} [query](<query.md>)

@@ -1,3 +1,0 @@
-- #[Quick Capture](<Quick Capture.md>)
-    - Using Twitter as mentors #[Article Ideas](<Article Ideas.md>) 
-    - Do things that compound in effect #[Article Ideas](<Article Ideas.md>)  [archive](<archive.md>)

@@ -1,3 +1,0 @@
-- #[Quick Capture](<Quick Capture.md>)
-    - Read up on David Allen's Getting Things Done 
-    - Why do people rock when reading

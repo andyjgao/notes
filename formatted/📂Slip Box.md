@@ -1,2 +1,0 @@
-- [Permanent Notes](<Permanent Notes.md>)
-- [Literature Notes](<Literature Notes.md>)

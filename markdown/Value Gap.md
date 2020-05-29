@@ -1,5 +1,0 @@
-- Value Gap = current conditions - value you can offer
-    - Example:
-        - Amazon Prime Delivery: 2 Days
-        - Normal Delivery: 4 Days
-        - The value gap is the 2 extra days 

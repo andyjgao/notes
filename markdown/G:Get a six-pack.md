@@ -1,8 +1,0 @@
-- Goals::
-    - Related Projects:: [[P:Finish Jeremy Ethier's Beginner Build Course]]
-    - Goal Status:: #[[archive]]
-    - Success Criteria:: Have a definitive six-pack
-    - Completed Date::
-    - Tags::#A:Fitness #Health #Well-being 
-- Workout Plan: #[[P:Finish Jeremy Ethier's Beginner Build Course]]
-- Nutrition Plan: TBD

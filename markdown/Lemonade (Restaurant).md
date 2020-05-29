@@ -1,3 +1,0 @@
-- Location:: Los Angeles, CA
-- Type:: #[[fast casual]] #[[airport food]] #boujee
-- Rating:: {{[[slider]]}}

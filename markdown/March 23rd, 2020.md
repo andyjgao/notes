@@ -1,7 +1,0 @@
-- Gratitude:: 
-- Today's Tasks:: 
-    - "{{[[DONE]]}} Develop Blog using Hugo"
-    - "{{[[DONE]]}} Publish site with associated url"
-- 
-- Today's Schedule:: 
-- 

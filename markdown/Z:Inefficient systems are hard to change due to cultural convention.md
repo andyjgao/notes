@@ -1,6 +1,0 @@
-- Permanent Notes::
-    - Source:: [[LB:The Design of Everyday Things]]
-    - Tags:: #education #[[designing efficient systems]]
-    - Relevant Notes::
-    - Notes::
-        - 
