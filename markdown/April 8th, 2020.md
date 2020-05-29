@@ -1,0 +1,2 @@
+- #[[Quick Capture]]
+    - lookup mewing

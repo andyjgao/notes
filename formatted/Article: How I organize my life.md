@@ -1,0 +1,59 @@
+- **[Blog Posts](<Blog Posts.md>):**
+    - **[Target Date](<Target Date.md>):** 
+    - **[Tags](<Tags.md>):** [Productivity](<Productivity.md>)
+    - **[Status](<Status.md>):** #[in progress](<in progress.md>)
+    - **[Link](<Link.md>):**
+- Outline
+    - Intro
+    - 3 Steps
+        - Capture
+        - Process
+        - Plan
+        - Execute
+    - 1. Capture
+        - Items we Capture:
+            - To-dos
+            - Insightful Information
+            - New Ideas
+    - 2. Process
+        - To-dos go into a To-do list which will be process
+        - Insightful Information gets processed via literature notes
+        - New Ideas either become new projects or permanent notes
+        - PARA
+            - Projects
+            - Areas
+            - Resources
+            - Archives
+        - Smart Notes
+            - Literature Notes
+            - Permanent Notes
+    - Plan
+        - Weekly Planning
+    - Execute
+        - Daily Executing
+- Draft
+    - Life is hectic and chaotic. But that doesn't mean you have to be. 
+    - I want to share the system I use to organize my thoughts, projects, and life.
+    - After implementing the system for the past three months, I can confidently say that it's one of the main contributors to how I am able to stay consistent in getting things done.
+    - The system is broken down into 4 components:
+        - **Capture:** collecting to-dos, insightful thoughts and ideas.
+        - **Process:** Organizing and filtering captures 
+        - **Plan:** Setting deadlines to to-dos
+        - **Execute:** Implementing Plan
+    - ## Capture
+        -  On average, a person consumes [34 gigabytes of data](https://ijoc.org/index.php/ijoc/article/viewFile/1566/743) a day. News, Instagram feeds, books, articles. 
+        - In either case, we need a method of capture-- a way to remember what we found insightful. **A method of capture must be easy to use, readily accessible, and transferrable between different mediums.**
+        - The tool I use for capture is Google Keep but you can use a small notebook or anything that satisfies the requirement of capture above. 
+        - Photos
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FG_3BiyeO9E.png?alt=media&token=194a4c8d-10c5-4079-bd81-02daa39f4cee)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FrLYoxX7bCh.png?alt=media&token=506e8d69-3982-4af9-8e2e-44e395d6d1b5)
+    - ## Process
+        - The next step is to process what is captured. 
+        - 
+        - I organize what I capture in a knowledge database such as Evernote, Notion, or Roam Research (I personally use Roam Research).
+        - There are three categories I break my captures into when I store them: 
+            - Smart Notes
+            - Current Projects
+            - Future Projects
+        - ### Smart Notes
+            - The term "Smart Notes" comes from Sonke Ahren's [How to Take Smart Notes](https://www.andyjgao.com/notes/how-to-take-smart-notes/). Whenever I 

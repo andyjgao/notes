@@ -1,0 +1,10 @@
+- Permanent Notes::
+    - Source:: [[LA:The Ultimate Guide to Writing Online]] [[LA:9 Blogging Tactics for 2 Million Views in 2 Years]]
+    - Tags:: #Writing
+    - Relevant Notes::
+        - [[Z:Writing online is one of the best skills to master]]
+    - Notes::
+        - Evergreen content is content that stays relevant years after writing it. If you want to be successful writing online, you need to make sure that the content you write is evergreen or else, the article/essay you write will have an expiration date.
+        - Evergreen content are
+            - in-depth guides that will last, not ephemeral clickbait
+            - things that everybody knows but nobody around you knows and you have a unique perspective on

@@ -1,0 +1,7 @@
+- **[Projects](<Projects.md>):**
+    - **[Due Date](<Due Date.md>):**
+    - **[Completed Date](<Completed Date.md>):**
+    - **[Status](<Status.md>):** #[in progress](<in progress.md>)
+    - **[Goal](<Goal.md>):**
+    - **[Tags](<Tags.md>):** #[Roam Research](<Roam Research.md>) [JSON](<JSON.md>) [Python](<Python.md>)
+- 

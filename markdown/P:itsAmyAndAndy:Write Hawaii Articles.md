@@ -1,0 +1,11 @@
+- Projects::
+    - Due Date:: [[April 5th, 2020]]
+    - Completed Date:: 
+    - Status:: #[[archive]]
+    - Related Goals:: #[[G:itsAmyAndAndy:Reach 100 Organic Viewers]]
+    - Success Criteria:: Complete Articles for Hawaii on itsAmyAndAndy
+    - Tags:: #Hawaii #A:itsAmyAndAndy
+    - Tasks::
+        - {{[[DONE]]}} [[Article: Oahu Food on a Budget]]
+        - {{[[TODO]]}} Road to Hana 
+        - {{[[TODO]]}} What to do in Maui 

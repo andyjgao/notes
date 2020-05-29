@@ -1,0 +1,11 @@
+- [This time last year]([April 20th, 2021](<April 20th, 2021.md>))
+- **[Daily Journal](<Daily Journal.md>):**
+    - "Is anything bugging me?"
+        - Ridiculous. PMOed once again. Will figure out a way to fix this once and for all.
+    - "I hate it when"
+        - I want to change but its so hard to because of habitual mindset
+- **[Today's Tasks](<Today's Tasks.md>):**
+    - {{query: {and: [TODO](<TODO.md>) {not: [Overdue Tasks](<Overdue Tasks.md>)}{between: [today](<today.md>) [today](<today.md>)}}}} [query](<query.md>)
+- **[Today's Schedule](<Today's Schedule.md>):**
+    - Read [LA:The Wiki Strategy: How to Grow Your Blog to 100k+ Monthly Visitors](<LA:The Wiki Strategy: How to Grow Your Blog to 100k+ Monthly Visitors.md>)
+- **[Today's Notes](<Today's Notes.md>):**

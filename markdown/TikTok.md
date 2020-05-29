@@ -1,0 +1,15 @@
+- Why is TikTok such a powerful platform?
+    - Super strong discovery algorithm for unknown creators
+    - Very SHORT in length and thus does not require too much effort in making a video (as compared to Youtube)
+    - Constant hits of dopamine
+- Different types of TikTok Videos
+    - Focus on Value 
+        - Life Hacks
+        - Productivity
+        - Cooking... etc.
+    - Focus on Persona
+        - Hot/Thirst Trap
+        - Dancing
+    - Trends
+    - Clickbait
+        - Wait 24 hours....

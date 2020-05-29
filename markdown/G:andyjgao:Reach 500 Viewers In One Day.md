@@ -1,0 +1,6 @@
+- Goals::
+    - Related Projects:: #[[P:Read and Implement Nat's SEO Articles and Tips]]
+    - Goal Status:: #[[in progress]]
+    - Success Criteria:: Reach 500 Viewers in One Day
+    - Completed Date:: 
+    - Tags:: #Growth #Traffic #A:andyjgao

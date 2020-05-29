@@ -1,0 +1,51 @@
+- **[Literature Notes](<Literature Notes.md>):**
+    - **[Author](<Author.md>):** [Justin Mikolay](<Justin Mikolay.md>)
+    - **[Source](<Source.md>):** https://letter.substack.com/p/write-like-naval
+    - **[Recommended By](<Recommended By.md>):**
+    - **[Tags](<Tags.md>):** [Articles](<Articles.md>) [Writing](<Writing.md>)
+    - **[Notes](<Notes.md>):**
+        - [Z:Compelling writing expresses big ideas with as few words as possible](<Z:Compelling writing expresses big ideas with as few words as possible.md>)
+            - To write something, you draft sentences. To write well, you delete sentences so that only the necessary words remain.
+            - "If you want to write something __compelling__, you have to add an axis to your creative process. You have to make the ideas bigger and the word count smaller at the same time."
+        - Being able to distill your complex ideas into something simple is not enough, they must also be universal.
+            -  People appreciate Apple products because they’re simple. Simple is great. But the most under-appreciated thing about Apple products is that they’re also universal. Two-year-olds around the world can use an iPad.
+            - "![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01f9370-a114-4b33-81d7-434ba9e74fa5_500x350.png)"
+        - [Z:Reading, thinking and writing aren't separate: they're three actions within a larger creative body](<Z:Reading, thinking and writing aren't separate: they're three actions within a larger creative body.md>):
+            - Read to fill yourself with ideas
+            - Think to clarify and order ideas
+            - Write to reflect ideas back to share with the world. 
+- Highlights:
+    - The most compelling writers express the biggest ideas in the fewest words, and they make ideas simple and universal. Here’s how they do it.
+    - This is a piece of writing (there’s a beginning and an end).
+    - ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F47a876a8-8fcc-41f2-a511-a47466ef33fd_500x100.png)
+    - To write something, you have to move from left to right (draft new sentences; create fresh text).
+    - ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F83d08e42-5f8a-4d37-bb57-fafbd1314966_500x100.png)
+    - But to write something __well__, you have to move from right to left (locate your favorite sentences and delete them).
+    - ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd2eaf17-d2b5-41e2-9deb-941e7e783836_500x100.png)
+    - I call this process discovery by deletion. Figuring out what you want to say by deleting what you don’t.
+    - If you want to write something __compelling__, you have to add an axis to your creative process. You have to make the ideas bigger and the word count smaller at the same time.
+    - ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01f9370-a114-4b33-81d7-434ba9e74fa5_500x350.png)
+    - Ever wonder why [Naval Ravikant](https://twitter.com/naval) never seems to bump up against the character limit? It’s because for him the character limit is irrelevant. His self-appointed task is to write as many characters as necessary, and none more.
+    - The essence of editing is to revisit original ideas … to expand them when necessary … and to ask yourself if you can put them any shorter. __Masterful communicators make the creative process a vector, not a scalar.__
+    - To write something __simple__, you have to move from right to left:
+    - ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0b6d317-21fc-4197-bfd8-dd8e576635d8_500x125.png)
+    - But simple isn’t enough. People appreciate Apple products because they’re simple. Simple is great. But the most under-appreciated thing about Apple products is that they’re also __universal__. Two-year-olds around the world can use an iPad.
+    - If you want to design something __attractive__, you have to add an axis to your creative process. You have to make the ideas simple and universal at the same time.
+    - ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fda714c82-0125-48c9-842d-1b296ee08d40_565x330.png)
+    - Helping __others__ write this way taught me how to help __myself__ write. The challenge is to inhabit my own brain and channel myself, to look at the ceiling and ask, “What am I trying to say?”
+    - I remind myself that reading, thinking, and writing aren’t separate acts. They’re three parts of one act (the act of creation) and three __processes__ within a larger creative process:
+    - Reading is filling myself with ideas. It’s a process of “knowing again” what someone else has already learned and passed along.
+    - Thinking is clarifying and ordering ideas. It’s a process of expressing ideas in deliberate sequence.
+    - Writing is reflecting ideas back to myself in written form. It’s a process of knowing … so others may know again (including my future self!).
+    - Let any one of these processes be in haste and it will stifle the others. Keep each in rhythm and they’ll fuel each other. One idea will collide with the next. The ship will sail under its own power.
+
+# Backlinks
+## [May 27th, 2020](<May 27th, 2020.md>)
+- [LA: How to Write Like Naval Ravikant](<LA: How to Write Like Naval Ravikant.md>)
+
+## [Z:Compelling writing expresses big ideas with as few words as possible](<Z:Compelling writing expresses big ideas with as few words as possible.md>)
+- **[Source](<Source.md>):** [LA: How to Write Like Naval Ravikant](<LA: How to Write Like Naval Ravikant.md>)
+
+## [Z:Reading, thinking and writing aren't separate: they're three actions within a larger creative body](<Z:Reading, thinking and writing aren't separate: they're three actions within a larger creative body.md>)
+- **[Source](<Source.md>):** [LA: How to Write Like Naval Ravikant](<LA: How to Write Like Naval Ravikant.md>)
+

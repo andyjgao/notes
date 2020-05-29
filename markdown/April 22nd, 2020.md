@@ -1,0 +1,16 @@
+- [This time last year]([[April 22nd, 2021]])
+- Daily Journal::
+- Today's Tasks::
+    - {{query: {and: [[TODO]] {not: [[Overdue Tasks]]}{between: [[today]] [[today]]}}}} #query
+- Today's Schedule::
+    - 8:30 - woke up to Alarm
+    - 9:00 - Actually woke up
+    - 10:35 - Got out of bed
+    - 11:00 - Ate Food
+    - 11:10 - Read
+    - 11:30 - Got Distracted by Twitter
+    - 11:44 - Typing in first chapter notes for [[LB:The Design of Everyday Things]]
+    - 12:27 - Distracted by Twitter Again lel
+    - 15:55- Doing Calithisthenic exercises
+- Today's Notes::
+    - Create a strong filter for your life #[[Article Ideas]] #archive

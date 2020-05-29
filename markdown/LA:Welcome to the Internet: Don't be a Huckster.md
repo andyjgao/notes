@@ -1,0 +1,61 @@
+- Literature Notes::
+    - Author:: [[Nat Eliason]]
+    - Source:: [Welcome to the Internet: Don't be a Huckster - Nat Eliason](https://www.nateliason.com/blog/huckster)
+    - Recommended By::
+    - Tags:: #Articles #marketing
+    - Notes::
+        - ### [[Z:Competitive spirals are an attribution to a Trend Mindset]]
+            - Hucksters are people who want to make money quick after noticing a trend with success & wanting to replicate it as fast as possible
+            - They become stuck at a local maxima of their peers and miss the potential of the world
+        - ### [[Z:The Internet Huckster mindset is a poor-long term strategy for growth]]
+            - **The huckster mindset**: I saw something my peers were doing that worked, I copied it, then when I got frustrated I started to get more aggressive about promoting it.
+            - The huckster mindset is a poor long-term strategy. If people are not genuinely interested in you, they will not follow you.
+        - ### **How not to be a Huckster**
+            - To be great, you can't chase everyone's tails. 
+            - The best way to combat huckster mindset is to recognize the root rationale for doing huckster-like things and create behaviors to prevent those urges
+            - **Be Patient**
+                - Hucksters are impatient. They want to make quick bucks. 
+                - Great things take time. Corollary: Be suspicious of anything that's fast to do.
+                - __Lean towards creating something excellent slowly__
+            - **Find a Niche**
+                - Imitation is helpful to start, but you need to break out of the habit as soon as possible.
+                - A good guiding question is to ask: __How can I do it differently?__
+            - **Study non-hucksters**
+                - Non-hucksters are succeeding because they are different in some way. They are also less likely to be promoting their successes.
+                - Usually, __the easier__ it is to receive a piece of advice, __the less__ you should listen to it.
+                - **Bias towards** hard to get information
+            - **Prioritize Craft, Avoid Huckster Formula**
+                - Huckster Formula: 20% work, 80% promotion. 
+                - Instead, you should focus the majority of your efforts into creation and not marketing.
+                - Marketing is only good when you have value in place already
+            - **Asses Your Whys**
+                - Constantly ask yourself why you are doing something? It will help prevent falling into the trap of huckster mindset. 
+- **Highlights:**
+    - ## The Competitive Spiral
+    - the huckster is stuck at a [local maximum](http://www.nateliason.com/local-maxima/), completely missing a world of potential.
+    - ## The Internet Huckster
+    - Three years ago I started a site about improving your habits and productivity.
+    - The logic felt straightforward: I was [reading tons of books](http://www.nateliason.com/can-easily-read-100-books-year/) about habits and productivity, and I wanted to put that knowledge back out in the world. Also, many other people had productivity blogs, so that kind of blog must be popular.
+    - What I didn’t realize then was that **I wasn’t providing anything new or valuable.** I had fallen into the huckster mindset: ^^I saw something my peers were doing that worked, I copied it, then when I got frustrated I started to get more aggressive about promoting it.^^
+    - Out of frustration, they start installing [tons of email capture](http://www.nateliason.com/email-capture/), they get aggressive on social media, they try to “game” sites like Reddit, and they look for whatever other silver bullet tactics they can find.
+    - **But these are huckster tactics**. Frustrated that their products aren’t selling as well as the next guy, they get in everyone’s face demanding their attention, hoping that the customer won’t notice that their productivity / marketing / lifestyle design / entrepreneurship / finance / poodle breeding site has the __exact same information__ as every single other one.
+    - ## How To Not Be a Huckster
+    -  Maybe you’ve reached this point and thought “shit, that’s me he’s describing. I’m doing that huckster stuff.”
+    - But if you want to create something great, you can’t be chasing everyone else’s tail. The best way to avoid that is to recognize what makes us want to do it in the first place, and then create behaviors that combat those urges.
+    - ### Be Patient
+    - One of the reasons that being a huckster is so attractive is that it’s __fast__. You can set up shop in the street in a few days, write an “ebook” in a few weeks, build a sketchy [lifestyle business](http://www.nateliason.com/lifestyle-business/) in a few months.
+    - Be suspicious of anything that’s fast to do, or the temptation to prioritize speed. Blog posts that take 30 minutes are not going to last, an app that you rush through with a $5/hour developer in India will probably not sell, and the Udemy course you threw together over the weekend isn’t going to have students in a few months.
+    - To not be caught in the huckster mindset, **lean towards creating something excellent slowly**.
+    - ### Find a Niche
+    - Imitation is a useful step in the learning process, but you need to break out on your own as soon as possible.
+    - Bias towards finding your own niche and in tackling that niche in a new way. Instead of copying, figure out how to be the one that the others are copying. A simple guiding question for carving out that niche is “__what if I did it differently?__” What if you [ignored the experts](http://www.nateliason.com/authority/) and made your own rules?
+    - The work of a huckster is easily replaced, an artisan, not so much.
+    - ### Study the Non-Hucksters
+    - Look at what the top non-hucksters in your field are doing. What “common advice” aren’t they following, that’s just getting shouted by the people in the middle?
+    - **The ** __easier __ **you get a piece of advice, the ** __less__ ** you should listen to it**. The people most eager to mentor and give advice are frequently the [worst ones to listen to](http://www.nateliason.com/authority/). The people worth listening to are very, very hard to get a hold of.
+    - That rule of thumb extends to your research, too. A fun and easy blog post on psychology will not give you the whole story. Books will be better, academic research papers best. A 300 word tactical article will not help you, but a 5,000 word one might be worth working through. **Have a bias towards information you can’t get easily**. Let the easier information feed the hucksters.
+    - ### Prioritize Craft, Avoid the Huckster Formula
+    - Building on the theory that whatever you want to do well will take a long time, you should put significantly less time into marketing than into creation. That doesn’t mean don’t market at all, but don’t think that sales or marketing will save you if you haven’t made something good enough to warrant people’s attention.
+    - ### Assess Your Whys
+    - We all fall into the huckster mindset, not realizing we’re even doing it. I’ll occasionally start tweaking my site, trying some marketing strategy, making some plan, and “wake up” part way through and go “__wait, why am I doing this?”__
+    - The rules are rarely rules, merely conventions. **Asking why helps us to make our own rules**.

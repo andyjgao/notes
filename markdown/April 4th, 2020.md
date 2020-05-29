@@ -1,0 +1,3 @@
+- [This time last year]([[April 4th, 2021]])
+- #[[Quick Capture]]
+    - The newest CDC guidelines contain several reuse strategies, the easiest - if you still have supplies, that is - is to dispense 5 masks/respirators to staff. Have them number them and or the bags they go into, using one mask per day and then placing it into the paper bag (please be careful not to contaminate the inside of the mask). After the fifth day, you start over at mask 1. The research from UNMC suggests that after about 3 days they don't seal well and need to be tossed, but with the rotation that could get you several weeks of use 

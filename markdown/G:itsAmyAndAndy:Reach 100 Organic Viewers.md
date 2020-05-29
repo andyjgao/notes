@@ -1,0 +1,8 @@
+- Goals::
+    - Related Projects::
+        - #[[itsAmyAndAndy:Create a Blog]] 
+        - #[[P:itsAmyAndAndy:Write Hawaii Articles]]
+    - Goal Status:: #[[in progress]]
+    - Success Criteria:: Reach 100 Organic Viewers
+    - Completed Date:: 
+    - Tags:: #Blog #A:itsAmyAndAndy

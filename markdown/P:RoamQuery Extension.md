@@ -1,0 +1,22 @@
+- Projects::
+    - Due Date::
+    - Completed Date::
+    - Status:: #[[delayed]]
+    - Goal:: 
+    - Tags:: #[[Chrome Extensions]] 
+- ## Idea
+    - Build a Chrome Extension that allows users to modify queries via variables 
+    - The gist is that you can set variables in a page, and then use them later on in things such as queries
+    -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FaANBRZ4tJX?alt=media&token=0b7239d1-c131-44fc-9a9f-b3f23cd59725)
+- ## Potential Roadblocks
+    - How will Query work to replace and change variables?
+        - One way is to save the line that uses queries in storage until it is used again
+- ## Research
+    - We will need to use Content Scripts since we need to read or write to web pages
+        - Things needed for this extension: 
+            - Content Scripts
+            - Mutation Observers
+                - Helpful Documentation on MutationObe
+                    - https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver/MutationObserver
+- ## Steps
+    - 1) Be able to detect text on a web page

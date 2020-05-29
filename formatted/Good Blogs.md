@@ -1,0 +1,6 @@
+- https://awealthofcommonsense.com/
+- https://nateliason.com
+- https://theangelphilosopher.com/
+- https://notes.andymatuschak.org/
+- http://justinmares.com/
+- 

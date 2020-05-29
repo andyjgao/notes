@@ -1,0 +1,7 @@
+- Permanent Notes::
+    - Source:: [[LB:How to Take Smart Notes]]
+    - Tags:: #[[Note Taking]]
+    - Relevant Notes::
+        - [[Z:Brainstorming is a byproduct of poor note-taking]]
+    - Notes::
+        - Permanent Notes should act as a single unit of thought that can still be understood even with context completely removed. This can be thought of as an API that can be inserted and used when needed in written pieces. By creating notes this way, you are able to mix and match your notes together to form any essay or written piece of work readily. 

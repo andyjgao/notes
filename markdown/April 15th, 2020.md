@@ -1,0 +1,20 @@
+- [This time last year]([[April 15th, 2021]])
+- Daily Journal:: 13:52 - 13:56
+    - "Is anything bugging me?"
+        - Still PMOed. Rip. Woke up ~9:30. Also many times I feel like I have so much creativity inside me but during the days i waste it.
+    - "I dreamed about"
+        - Fighting with my Dad bc he is always harping on my mom
+    - Need to figure a solid morning routine
+- Today's Tasks::
+    - {{query: {and: [[TODO]] {not: [[Overdue Tasks]]}{between: [[today]] [[today]]}}}} #query
+- Today's Schedule::
+- Today's Notes::
+    - Make Tres Leches Cake #postquarrantine
+        - https://www.allrecipes.com/recipe/7399/tres-leches-milk-cake/?fbclid=IwAR2j0aAP209WRCuY52eqkPwG5cb6FqvnDKpbSuD3zncVXpTKLsqWgLWEFv8
+    - Words of Affirmation #[[Amy Tsai]]
+        - 1) ur very thoughtful
+        - 2) i really appreciate that you stick up for your friends and want the best for them
+        - 3) you're very hard working when you make up your mind on something
+- 
+- #[[Quick Capture]]
+    - https://nesslabs.com/interstitial-journaling 

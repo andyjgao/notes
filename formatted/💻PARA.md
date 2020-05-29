@@ -1,0 +1,3 @@
+- [Projects](<Projects.md>)
+- [Goals](<Goals.md>)
+- [Areas](<Areas.md>)

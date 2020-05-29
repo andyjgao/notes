@@ -1,0 +1,3 @@
+- #[[Quick Capture]]
+    - Using Twitter as mentors #[[Article Ideas]] 
+    - Do things that compound in effect #[[Article Ideas]]  #archive

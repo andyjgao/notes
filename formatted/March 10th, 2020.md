@@ -1,0 +1,64 @@
+- #[Quick Capture](<Quick Capture.md>)
+    - Hiking is an allegory for life
+- [Hawaii](<Hawaii.md>) Day 5: Maui
+    - **[Road to Hana](<Road to Hana.md>):** https://roadtohana.com/road-to-hana-map.php
+        - **[Twin Falls](<Twin Falls.md>):** Stop 1 https://www.twinfallsmaui.net/
+            - The first easily accessible waterfall on the Road to Hana
+            - This place is privately owned and is a Farm that sells fresh coconut, pineapples, etc to incoming visitors
+            - Twin Falls also have a hike that requires you to walk through water 2 times before you get the waterfall where Twin Falls gets its name
+            - Hike is pretty easy but make sure to bring flip flops or water shoes to cross water as the rocks are slippery and pointy
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FLGbNmgM_xo?alt=media&token=71f64383-ab32-4c97-86c6-7adc4f84d5c2)
+        - **[Ka Haku Smoke Shack](<Ka Haku Smoke Shack.md>):** Stop 2 (Lunch) 
+            - By far my **favorite meal** in Maui, 10/5
+            - The exterior of the Ka Haku Smoke Shack looks exactly as how it is named: it looks like a shack. There is no polish at all at this place but that's what makes it so appealing to me.
+            - Once you park and walk up to the shack, you will see a man and his two dogs (Buddy and Luna) working a grill with ribs and Huli Huli Chicken (Hawaiian styled Rotisserie Chicken)
+            - It's $20 dollars for a box that serves 2 (choose between either ribs or chicken) or $30 dollars to have both which serves 3-4
+            - The box comes with Rice and a salad mixed in vinaigrette
+                -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FL5z-k4F0HV?alt=media&token=cdf6bf7c-52de-4fed-9fed-2634dabe846e)
+            - **Bonus**: Dogs are super super friendly and will stare at you with their beautiful eyes looking for food
+            - Buddy:
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FPWie7DXG7t?alt=media&token=f827cf0f-e532-4e0c-99bc-d77568a22ee3)
+        - **[Garden of Eden](<Garden of Eden.md>):** Stop 3 https://mauigardenofeden.com/
+            - An Arboretum created by Alan Bradbury, Maui’s first ISA certified arborist and life long landscape designer, and his daughter
+            - Best comparison to this is an outdoor version of Phipps Conservatory except even that is a poor comparison
+            - Its a beautiful garden filled with different plants,fruits,trees as well as peacocks and ducks
+            - Definitely worth a visit if you are traveling on the Road to Hana
+            - $15/person
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FMNl7CuIrzt?alt=media&token=bdf46973-1a99-4504-a454-53d8b934ac10) 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FJqjXpqqcs8?alt=media&token=937f1118-2e79-4268-8d4d-a7936f018167)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FK5L6qYWbT5?alt=media&token=66346b73-9ae1-4b94-872a-2aaa05b65993)
+        - **[Coconut Glens](<Coconut Glens.md>):** Stop 4 (Snack)
+            - A small ice cream stand selling coconut vegan ice cream
+            - Very Delicious (you can taste the coconut chunks inside the ice cream)
+            -  A lil pricey $7 for 2 scoops 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FuhXQAUyuWj?alt=media&token=398d9b45-1276-4cc7-a631-bf135c25603c)
+            - We got Matcha Mint & Original Coconut
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FPqOCp0V563?alt=media&token=d230e585-509b-4ed5-818f-f871c1dceda0)
+        - **[Waiʻānapanapa State Park](<Waiʻānapanapa State Park.md>):** Stop 5
+            - One of the **MUST VISITS** touted by all those who do the Road to Hana
+            - It is known for black sand, scenic views of the ocean, and a blowhole
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FixfEbZFk8O?alt=media&token=15a78b39-3be4-41ef-a4b1-0b488bd40078)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FIi0_drn21O?alt=media&token=6e0607f2-524d-4f46-a8e8-f6d6067cb9f1)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2F5pZxNTN5uY?alt=media&token=5084e9b2-0511-4ce4-a72a-2b7f13d2ffa7)
+        - **Rest of Road to Hana**: Drive Back
+            - Thank god for our Jeep (see "Rental guy convinced us to get a JEEP")
+            - The road back was extremely bumpy and there were parts on the Road where we were driving on the edge of a cliff and the guard rail had been rusted off, thus having nothing between us and the 1000 foot drop to the bottom of the ocean
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FEgFymJyWaO?alt=media&token=37a1e444-4b45-4c50-a4fa-f468c72487d7)
+    - **[Poi by the Pound](<Poi by the Pound.md>):**https://www.poibythepound.com/
+        - A restaurant frequented by locals known for their Poi (mashed Taro)
+        - [Amy Tsai](<Amy Tsai.md>) and I got the Hawaiian Plate for $25 which included:
+            - kalua pork, pork laulau, chicken long rice, side of poke, lomi salmon, poi, and mac salad
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FhjIx1tCyMk?alt=media&token=b5d027a9-51ac-435f-958b-ded9064be360)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FSkhqE-kIpZ?alt=media&token=c7051e77-b122-4e62-b5c8-d2f137318299)
+        - We got Mud Pie for dessert:
+            - A massive Ice cream cake filled with chocolate, whip cream and delicious goodness
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2F-IuKB9pz6G?alt=media&token=ff61cd82-be87-42cd-b7ff-4faedbc5cdf7)
+        - A very, very solid meal. All of the food were true Hawaiian and I highly recommend if you want to try an authentic Hawaiian meal.
+
+# Backlinks
+## [Article: Road to Hana](<Article: Road to Hana.md>)
+- **[Tags](<Tags.md>):** [Hawaii](<Hawaii.md>) #[March 10th, 2020](<March 10th, 2020.md>)
+
+## [Article: Top Things to Do in Maui](<Article: Top Things to Do in Maui.md>)
+- **Tags:** [Hawaii](<Hawaii.md>) #[March 8th, 2020](<March 8th, 2020.md>) #[March 9th, 2020](<March 9th, 2020.md>) #[March 10th, 2020](<March 10th, 2020.md>)
+

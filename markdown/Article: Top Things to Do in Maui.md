@@ -1,0 +1,3 @@
+- **Tags:** #Hawaii #[[March 8th, 2020]] #[[March 9th, 2020]] #[[March 10th, 2020]] #[[March 11th, 2020]] #[[March 12th, 2020]]
+- ### Intro
+    - 

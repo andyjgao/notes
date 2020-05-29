@@ -1,0 +1,11 @@
+- [[Daily Journal]] 12:51 - 12:58 {{word-count}}
+    - "Is anything bugging me?"
+        - I need to wake up earlier. Currently, I've been waking up around 11am everyday. This is way too late to do anything productive.
+    - hbWl8HHTB
+        - {{[[TODO]]}} Make sure to add Chrome Extensions as an item for this week's daily tasks
+    - "When I go to sleep"
+        - I often times feel restless and a dependency to use my phone
+        - NoPMO 
+    - "When I wake up"
+        - I feel energized, however still check my phone for way too long ~30-40 mins before getting out of bed
+- 

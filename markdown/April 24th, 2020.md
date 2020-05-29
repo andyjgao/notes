@@ -1,0 +1,15 @@
+- [This time last year]([[April 24th, 2021]])
+- Daily Journal::
+    - "I love it when"
+        - I wake up early. Today I woke up ~8:30 and showered getting downstairs around 9:00
+    - Trying to be more intentional throughout the day doing my work and in life in general
+- Today's Tasks::
+    - {{query: {and: [[TODO]] {not: [[Overdue Tasks]]}{between: [[today]] [[today]]}}}} #query
+- Today's Schedule::
+- 11:30 - Finished reading for around 30 minutes. Finished reading ~10 pages. Want to get 20 mins in each day
+- Today's Notes::
+    - protracted  [[[[interval]]:1.0]] [[[[factor]]:2.00]] [[May 12th, 2020]] #vocab
+        - lasting for a long time or longer than expected or usual.
+    - Ways to stay Productive (during Quarantine?) #[[Article Ideas]] #archive
+    - How to Use React w/ [[Chrome Extensions]]
+        - https://levelup.gitconnected.com/how-to-use-react-js-to-create-chrome-extension-in-5-minutes-2ddb11899815

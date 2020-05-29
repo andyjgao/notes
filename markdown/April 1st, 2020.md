@@ -1,0 +1,30 @@
+- [This time last year]([[April 1st, 2021]])
+- [[Daily Journal]]  10:03 - 10:08 {{word-count}}
+    - "Is anything bugging me?"
+        - I have so many ideas and content to filter through, I am very excited about the prospect of all these Ideas but there's so much to learn, not enough time. Need to hone in on focus
+    - "How do I feel?"
+        - I feel pretty good. Woke up at 7:30 am today, potatoed until 8:20 and rolled out of bed and took a shower. This is the earliest I woke up in a while. I am pretty awake. Still trying out my [[Coffee]] and [[Tea]] method.
+        - Feel very [[awake]] and [[motivated]]. This could be because I am on my 3rd day of no PMO
+    - "I love it when"
+        - I find a new idea or am excited about a concept.
+    - "When I wake up"
+        -  I need to get out of bed immediately do not potato.
+    - "If I change one thing, it would be"
+        - To meditate more. I need to balance my mind from all the external noises
+    - "I miss"
+        - [[Amy Tsai]]. I have not seen her in over 2ish weeks due to Covid-19
+    - 
+- #[[Quick Capture]]
+    - tiktok tips on productivity 
+
+    - new YouTube video on my daily routine 
+- [[TikTok]] has very strong discovery algorithm. I want to see if I can use it as a marketing platform for my various other ventures
+    - Ideas:
+        - Create videos that bring value to viewers
+            - Productivity tips
+            - Life Hacks
+            - Best Books to Read
+- Why I click on [[Youtube]] videos
+    - Influencer content
+- Talk to [[Nat Eliason]] about Bluehost as a joke.
+- Click the link in the Bio to see us go to the highest peak in Maui

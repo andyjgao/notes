@@ -1,0 +1,29 @@
+- Tasks:
+- May 2020
+    - 5/24/2020
+        - Daily Tasks:
+            - Monday: [[May 25th, 2020]]
+                - {{[[DONE]]}} Finishing Writing out Notes for The Design of Everyday Things
+                - {{[[DONE]]}} Draft Newsletter
+            - Tuesday: [[May 26th, 2020]]
+            - Wednesday: [[May 27th, 2020]]
+                - {{[[TODO]]}} Work on Permanent Notes => Website Automation Script
+                - {{[[DONE]]}} Upload notes onto notebook.andyjgao.com
+                - {{[[TODO]]}} Work on Curation Project
+            - Thursday: [[May 28th, 2020]]
+                - {{[[TODO]]}} Read through Bookmarked Tweets
+            - Friday: [[May 29th, 2020]]
+            - Saturday: [[May 30th, 2020]]
+            - Sunday: [[May 31st, 2020]]
+- :hiccup [hr]
+- April 2020
+    - 4/13/20
+        - Daily Tasks:
+            - Monday: 
+            - Tuesday: 
+            - Wednesday: [[April 15th, 2020]]
+            - Thursday: [[April 16th, 2020]]
+                - {{[[DONE]]}} Install WSL2
+            - Friday: [[April 17th, 2020]]
+            - Saturday: [[April 18th, 2020]]
+            - Sunday: [[April 19th, 2020]]

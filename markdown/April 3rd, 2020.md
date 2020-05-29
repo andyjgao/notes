@@ -1,0 +1,10 @@
+- [[Daily Journal]] 11:45 - 11:54 {{word-count}}
+    - "Is anything bugging me?"
+        - PMOed again, also woke up at 11:20. 
+    - How do I feel?
+        - Recently, I've been sleeping for 9+ hours but feel like I could sleep more.
+    - "I dreamed about"
+        - Going back to High school again. I went back to class and there was Ms. 6th grade BLC teacher, and my gym teacher
+        - I played tennis with my brother, and sister
+        - Bumped in Katy
+- [This time last year]([[April 3rd, 2021]])

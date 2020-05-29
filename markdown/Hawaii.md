@@ -1,0 +1,36 @@
+- Oahu Food Tour March 6th-8th:
+    - Island Vintage Shaved Ice:: 
+        - Heavanly Lilikoi $9.99
+    - Maui Brewing Company::
+        - Beer Flight $12
+        - Crispy Calamri $8
+        - Huli Sauce Chicken Wings $8.25
+    - Hawaiian Crown Plantation::
+        Acaii Bowl Large $9.99
+    - Rainbow Drive-In:: 
+        - Mix Plate $10.50
+            - BBQ Beef, Boneless Chicken and Mahi Mahi
+    - Doraku::
+        - Ahi Tuna Poke $6
+        - Tuna Tataki $6
+        - Lychee Martini $6
+        - Momotaro Lemonade $6
+    - kulu kulu::
+        - Diamond Head Chocolate Puffs $2.40
+    - Musubi Cafe IYASUME::
+        - Avocado Egg Bacon $2.98
+        - Fish Egg Thing (no price online??) guess is $2.58
+        - Spicy Tuna Mayo $2.48
+        - Poke $8.99
+    - Kono's Northshore::
+        - Pork Plate Lunch $11.95
+        - 12-hour slow-roasted Kalua pulled pork, white rice, mesclun salad, homemade guava bbq sauce, and homemade papaya seed dressing
+        - Pineapple Lemonade $4
+    - Leonard's Bakery::
+        - Malasadas $1.30/each
+        - Malasadas Puffs $1.65/each
+    - Marugame udon::
+        - Kake Udon Reg $3.95
+        - Nikutama Udon cold Reg $6.80
+        - Nikutama Udon hot Reg $6.80
+        - Tempura ~$1 (I can't find prices online)
