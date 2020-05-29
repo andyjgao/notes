@@ -69,19 +69,15 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
 
   return (
     <div className="text-gray-900 flex flex-col min-h-screen h-screen">
-    <meta name="twitter:title" content={note.title.concat(" - Andy J Gao's notes")} />
-
+      <meta name="twitter:title" content={note.title.concat(" - Andy J Gao's notes")} />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:creator" content={'@andyjgao'} />
+      <meta name="twitter:title" content={note.title.concat(" - Andy J Gao's notes")} />
+      <meta name="twitter:description" content="a public notebook of networked thoughts" />
+      <meta name="twitter:image:src" content={'https://notebook.andyjgao.com'.concat(notesImage)} />
       <Helmet>
         <meta charSet="utf-8" />
         <title>{note.title} - Andy J Gao's notes</title>
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:creator" content={'@andyjgao'} />
-        <meta name="twitter:title" content={note.title.concat(" - Andy J Gao's notes")} />
-        <meta name="twitter:description" content="a public notebook of networked thoughts" />
-        <meta
-          name="twitter:image:src"
-          content={'https://notebook.andyjgao.com'.concat(notesImage)}
-        />
         <link rel="icon" type="image/png" href={favicon} />
       </Helmet>
       <div className="font-bold border-b px-4">
