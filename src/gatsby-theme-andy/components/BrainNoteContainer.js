@@ -69,6 +69,8 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
 
   return (
     <div className="text-gray-900 flex flex-col min-h-screen h-screen">
+    <meta name="twitter:title" content={note.title.concat(" - Andy J Gao's notes")} />
+
       <Helmet>
         <meta charSet="utf-8" />
         <title>{note.title} - Andy J Gao's notes</title>
