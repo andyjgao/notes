@@ -26,7 +26,6 @@ Here are some recent notes:
 - [[Sharing establishes credibility]]
 - [[Projects are absolutely essential to learning]]
 - [[Side hustles are not startups]]
-- [[Use writing as a tool for learning]]
 
 
 
