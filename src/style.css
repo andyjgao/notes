@@ -22,11 +22,11 @@ h3 {
  }
  
  a {
-   @apply text-gray-700 font-bold underline;
+   @apply text-blue-600 font-normal underline;
  }
  
  a:hover {
-   @apply text-gray-600 font-bold no-underline;
+   @apply text-gray-600 no-underline;
  }
 
 .references a{
